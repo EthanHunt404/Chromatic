@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cromamod:block/orange_chroma_brick_slab"
+    },
+    "type=top": {
+      "model": "cromamod:block/orange_chroma_brick_slab_top"
+    },
+    "type=double": {
+      "model": "cromamod:block/orange_chroma_brick_slab_full"
+    }
+  }
+}

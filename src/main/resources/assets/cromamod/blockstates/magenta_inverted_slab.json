@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cromamod:block/magenta_inverted_slab"
+    },
+    "type=top": {
+      "model": "cromamod:block/magenta_inverted_slab_top"
+    },
+    "type=double": {
+      "model": "cromamod:block/magenta_inverted_slab_full"
+    }
+  }
+}

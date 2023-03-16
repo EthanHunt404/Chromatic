@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cromamod:blocks/green_cut_chroma_tile",
+    "up": "cromamod:blocks/green_cut_chroma_tile",
+    "north": "cromamod:blocks/green_cut_chroma_tile",
+    "east": "cromamod:blocks/green_cut_chroma_tile",
+    "south": "cromamod:blocks/green_cut_chroma_tile",
+    "west": "cromamod:blocks/green_cut_chroma_tile",
+    "particle": "cromamod:blocks/green_cut_chroma_tile"
+  },
+  "render_type": "solid"
+}

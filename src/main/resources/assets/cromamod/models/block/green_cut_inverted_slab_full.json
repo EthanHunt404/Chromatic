@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cromamod:blocks/green_cut_inverted_tile",
+    "top": "cromamod:blocks/green_cut_inverted_tile",
+    "side": "cromamod:blocks/green_cut_inverted_tile"
+  },
+  "render_type": "solid"
+}

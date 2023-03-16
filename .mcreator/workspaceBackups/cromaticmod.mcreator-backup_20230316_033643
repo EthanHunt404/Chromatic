@@ -1,0 +1,2831 @@
+{
+  "mod_elements": [
+    {
+      "name": "ChromaticBuildingBlocksTab",
+      "type": "tab",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chromatic_building_blocks_tab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "ChromaTile",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/ChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "BlueChromaTile",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/BlueChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/blue_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/blue_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/blue_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "BrownChromaTile",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/brown_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/BrownChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/brown_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/brown_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "CyanChromaTile",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/cyan_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/cyan_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/CyanChromaTileBlock.java"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "GrayChromaTile",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/gray_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/gray_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/item/gray_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/GrayChromaTileBlock.java"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "GreenChromaTile",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/GreenChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/block/green_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/green_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/item/green_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "MagentaChromaTile",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/magenta_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/MagentaChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/magenta_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "OrangeChromaTile",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/orange_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/OrangeChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/orange_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/item/orange_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "PinkChromaTile",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/PinkChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/pink_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/pink_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/pink_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "PurpleChromaTile",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/purple_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/purple_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/PurpleChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/purple_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "RedChromaTile",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/red_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/red_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/RedChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/red_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "YellowChromaTile",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/yellow_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/YellowChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/yellow_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/yellow_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "InvertedTile",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/inverted_tile.json",
+          "src/main/java/net/croma/mod/block/InvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "BlueInvertedTile",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/blue_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/blue_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/BlueInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/models/block/blue_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "BrownInvertedTile",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/brown_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/brown_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/BrownInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/brown_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "CyanInvertedTile",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/cyan_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/CyanInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/cyan_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "GrayInvertedTile",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/GrayInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/gray_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/gray_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/gray_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "GreenInvertedTile",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/GreenInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/green_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/green_inverted_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/green_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "MagentaInvertedTile",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/magenta_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/MagentaInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/magenta_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "OrangeInvertedTile",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/orange_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/OrangeInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/orange_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/orange_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "PinkInvertedTile",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/PinkInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/pink_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/pink_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/pink_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "PurpleInvertedTile",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/purple_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/PurpleInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/purple_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/purple_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "RedInvertedTile",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/red_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/red_inverted_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/red_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/RedInvertedTileBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "YellowInvertedTile",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/YellowInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/models/block/yellow_inverted_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/yellow_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/yellow_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "CutChromaTile",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/item/cut_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/CutChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/cut_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "BlueCutChromaTile",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_cut_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/BlueCutChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/blue_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/blue_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/blue_cut_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "BrownCutChromaTile",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_cut_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/BrownCutChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/block/brown_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/item/brown_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/brown_cut_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "CyanCutChromaTile",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_cut_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/CyanCutChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/cyan_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/cyan_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_cut_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "GrayCutChromaTile",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_cut_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/gray_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/item/gray_cut_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/GrayCutChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/gray_cut_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "GreenCutChromaTile",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_cut_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/green_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/item/green_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/green_cut_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/GreenCutChromaTileBlock.java"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "MagentaCutChromaTile",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_cut_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/magenta_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/item/magenta_cut_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/MagentaCutChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/block/magenta_cut_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "OrangeCutChromaTile",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_cut_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/OrangeCutChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/orange_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/orange_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/orange_cut_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "PinkCutChromaTile",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_cut_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/pink_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/pink_cut_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/PinkCutChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/pink_cut_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "PurpleCutChromaTile",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_cut_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/purple_cut_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/PurpleCutChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/block/purple_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/purple_cut_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "RedCutChromaTile",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_cut_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/red_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/item/red_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/red_cut_chroma_tile.json",
+          "src/main/java/net/croma/mod/block/RedCutChromaTileBlock.java"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "YellowCutChromaTile",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_cut_chroma_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/YellowCutChromaTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/yellow_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/yellow_cut_chroma_tile.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_cut_chroma_tile.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "CutInvertedTile",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/CutInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/cut_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "BlueCutInvertedTile",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_cut_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/blue_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/blue_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/blue_cut_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/BlueCutInvertedTileBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "BrownCutInvertedTile",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_cut_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/brown_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/brown_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/brown_cut_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/BrownCutInvertedTileBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "CyanCutInvertedTile",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_cut_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/cyan_cut_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/CyanCutInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/cyan_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/cyan_cut_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "GrayCutInvertedTile",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_cut_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/GrayCutInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/gray_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/gray_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/gray_cut_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "GreenCutInvertedTile",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_cut_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/green_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/green_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/green_cut_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/GreenCutInvertedTileBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "MagenteCutInvertedTile",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magente_cut_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/MagenteCutInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/magente_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/magente_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/magente_cut_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "OrangeCutInvertedTile",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_cut_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/orange_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/orange_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/orange_cut_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/OrangeCutInvertedTileBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "PinkCutInvertedTile",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_cut_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/pink_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/pink_cut_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/PinkCutInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/pink_cut_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "PurpleCutInvertedTile",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_cut_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/purple_cut_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/PurpleCutInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/purple_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/purple_cut_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "RedCutInvertedTile",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_cut_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/red_cut_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/RedCutInvertedTileBlock.java",
+          "src/main/resources/assets/cromamod/models/item/red_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/blockstates/red_cut_inverted_tile.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "YellowCutInvertedTile",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_cut_inverted_tile",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/yellow_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/item/yellow_cut_inverted_tile.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_cut_inverted_tile.json",
+          "src/main/java/net/croma/mod/block/YellowCutInvertedTileBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "CutInvertedSlab",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cut_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/cut_inverted_slab_top.json",
+          "src/main/java/net/croma/mod/block/CutInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/item/cut_inverted_slab.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "BlueCutInvertedSlab",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_cut_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/blue_cut_inverted_slab.json",
+          "src/main/java/net/croma/mod/block/BlueCutInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/blue_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/blue_cut_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/blockstates/blue_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/blue_cut_inverted_slab_top.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "BrownCutInvertedSlab",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_cut_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/brown_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/brown_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/brown_cut_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/brown_cut_inverted_slab.json",
+          "src/main/java/net/croma/mod/block/BrownCutInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/brown_cut_inverted_slab_top.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "CyanCutInvertedSlab",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_cut_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/CyanCutInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/cyan_cut_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_cut_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/blockstates/cyan_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/item/cyan_cut_inverted_slab.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "GrayCutInvertedSlab",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_cut_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/GrayCutInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/gray_cut_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/models/item/gray_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/gray_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/gray_cut_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/blockstates/gray_cut_inverted_slab.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "GreenCutInvertedSlab",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_cut_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/green_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/green_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/green_cut_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/blockstates/green_cut_inverted_slab.json",
+          "src/main/java/net/croma/mod/block/GreenCutInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/green_cut_inverted_slab_top.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "MagentaCutInvertedSlab",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_cut_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/magenta_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_cut_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_cut_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_cut_inverted_slab.json",
+          "src/main/java/net/croma/mod/block/MagentaCutInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/item/magenta_cut_inverted_slab.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "OrangeCutInvertedSlab",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_cut_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/OrangeCutInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/orange_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/orange_cut_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/blockstates/orange_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/item/orange_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/orange_cut_inverted_slab_full.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "PinkCutInvertedSlab",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_cut_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/PinkCutInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/pink_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/pink_cut_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/blockstates/pink_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/item/pink_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/pink_cut_inverted_slab_top.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "PurpleCutInvertedSlab",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_cut_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/purple_cut_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/purple_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/purple_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/purple_cut_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/purple_cut_inverted_slab.json",
+          "src/main/java/net/croma/mod/block/PurpleCutInvertedSlabBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "RedCutInvertedSlab",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_cut_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/red_cut_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/red_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/red_cut_inverted_slab_full.json",
+          "src/main/java/net/croma/mod/block/RedCutInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/item/red_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/red_cut_inverted_slab.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "YellowCutInvertedSlab",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_cut_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/yellow_cut_inverted_slab.json",
+          "src/main/java/net/croma/mod/block/YellowCutInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/yellow_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/item/yellow_cut_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_cut_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_cut_inverted_slab_top.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "CutChromaSlab",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/cut_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/blockstates/cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cut_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/cut_chroma_slab.json",
+          "src/main/java/net/croma/mod/block/CutChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/item/cut_chroma_slab.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "BlueCutChromaSlab",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_cut_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/blue_cut_chroma_slab.json",
+          "src/main/java/net/croma/mod/block/BlueCutChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/blue_cut_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/blue_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/blue_cut_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/models/item/blue_cut_chroma_slab.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "BrownCutChromaSlab",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_cut_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/brown_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/brown_cut_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/brown_cut_chroma_slab.json",
+          "src/main/java/net/croma/mod/block/BrownCutChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/brown_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/brown_cut_chroma_slab_full.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "CyanCutChromaSlab",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_cut_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/CyanCutChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/cyan_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_cut_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/models/item/cyan_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_cut_chroma_slab_top.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "GrayCutChromaSlab",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_cut_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/gray_cut_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/gray_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/item/gray_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/gray_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/gray_cut_chroma_slab_full.json",
+          "src/main/java/net/croma/mod/block/GrayCutChromaSlabBlock.java"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "GreenCutChromaSlab",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_cut_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/green_cut_chroma_slab_full.json",
+          "src/main/java/net/croma/mod/block/GreenCutChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/green_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/item/green_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/green_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/green_cut_chroma_slab_top.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "MagentaCutChromaSlab",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_cut_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/magenta_cut_chroma_slab.json",
+          "src/main/java/net/croma/mod/block/MagentaCutChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/magenta_cut_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/blockstates/magenta_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_cut_chroma_slab_full.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "OrangeCutChromaSlab",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_cut_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/orange_cut_chroma_slab.json",
+          "src/main/java/net/croma/mod/block/OrangeCutChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/orange_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/item/orange_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/orange_cut_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/orange_cut_chroma_slab_full.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "PinkCutChromaSlab",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_cut_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/pink_cut_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/pink_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/pink_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/pink_cut_chroma_slab_top.json",
+          "src/main/java/net/croma/mod/block/PinkCutChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/item/pink_cut_chroma_slab.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "PurpleCutChromaSlab",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_cut_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/purple_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/purple_cut_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/purple_cut_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/purple_cut_chroma_slab.json",
+          "src/main/java/net/croma/mod/block/PurpleCutChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/purple_cut_chroma_slab.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "RedCutChromaSlab",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_cut_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/red_cut_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/red_cut_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/red_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/red_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/red_cut_chroma_slab.json",
+          "src/main/java/net/croma/mod/block/RedCutChromaSlabBlock.java"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "YellowCutChromaSlab",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_cut_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/YellowCutChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/yellow_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_cut_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/item/yellow_cut_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_cut_chroma_slab_full.json"
+        ]
+      },
+      "path": "~/Chroma Tiles/Cut Chroma"
+    },
+    {
+      "name": "ChromaSlab",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/ChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/item/chroma_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/chroma_slab_top.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "BlueChromaSlab",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/blue_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/blue_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/blockstates/blue_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/blue_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/blue_chroma_slab_top.json",
+          "src/main/java/net/croma/mod/block/BlueChromaSlabBlock.java"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "BrownChromaSlab",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/BrownChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/item/brown_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/brown_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/brown_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/brown_chroma_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/brown_chroma_slab.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "CyanChromaSlab",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/cyan_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/item/cyan_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_chroma_slab_top.json",
+          "src/main/java/net/croma/mod/block/CyanChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/cyan_chroma_slab_full.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "GrayChromaSlab",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/gray_chroma_slab.json",
+          "src/main/java/net/croma/mod/block/GrayChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/gray_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/gray_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/models/item/gray_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/gray_chroma_slab_top.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "GreenChromaSlab",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/GreenChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/green_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/green_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/green_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/blockstates/green_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/item/green_chroma_slab.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "MagentaChromaSlab",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/magenta_chroma_slab.json",
+          "src/main/java/net/croma/mod/block/MagentaChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/magenta_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/blockstates/magenta_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/item/magenta_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_chroma_slab_top.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "OrangeChromaSlab",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/orange_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/orange_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/orange_chroma_slab_top.json",
+          "src/main/java/net/croma/mod/block/OrangeChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/orange_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/item/orange_chroma_slab.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "PinkChromaSlab",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/pink_chroma_slab.json",
+          "src/main/java/net/croma/mod/block/PinkChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/pink_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/pink_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/pink_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/blockstates/pink_chroma_slab.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "PurpleChromaSlab",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/PurpleChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/purple_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/models/item/purple_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/purple_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/blockstates/purple_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/purple_chroma_slab.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "RedChromaSlab",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/red_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/red_chroma_slab.json",
+          "src/main/java/net/croma/mod/block/RedChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/red_chroma_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/red_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/red_chroma_slab_full.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "YellowChromaSlab",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_chroma_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/yellow_chroma_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/yellow_chroma_slab.json",
+          "src/main/java/net/croma/mod/block/YellowChromaSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/yellow_chroma_slab.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_chroma_slab_full.json",
+          "src/main/resources/assets/cromamod/blockstates/yellow_chroma_slab.json"
+        ]
+      },
+      "path": "~/Chroma Tiles"
+    },
+    {
+      "name": "ChromaticDecorTab",
+      "type": "tab",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chromatic_decor_tab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "InvertedSlab",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/inverted_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/inverted_slab_top.json",
+          "src/main/java/net/croma/mod/block/InvertedSlabBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "BlueInvertedSlab",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/blue_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/blue_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/blue_inverted_slab_full.json",
+          "src/main/java/net/croma/mod/block/BlueInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/blue_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/blue_inverted_slab.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "BrownInvertedSlab",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/brown_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/brown_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/item/brown_inverted_slab.json",
+          "src/main/java/net/croma/mod/block/BrownInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/brown_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/brown_inverted_slab_top.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "CyanInvertedSlab",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/cyan_inverted_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/cyan_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_inverted_slab_full.json",
+          "src/main/java/net/croma/mod/block/CyanInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/cyan_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_inverted_slab_top.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "GrayInvertedSlab",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/gray_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/gray_inverted_slab_top.json",
+          "src/main/java/net/croma/mod/block/GrayInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/gray_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/gray_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/models/item/gray_inverted_slab.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "GreenInvertedSlab",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/green_inverted_slab_full.json",
+          "src/main/java/net/croma/mod/block/GreenInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/green_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/green_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/green_inverted_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/green_inverted_slab.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "MagentaInvertedSlab",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/MagentaInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/magenta_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/models/item/magenta_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_inverted_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/magenta_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_inverted_slab_top.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "OrangeInvertedSlab",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/orange_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/orange_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/orange_inverted_slab.json",
+          "src/main/java/net/croma/mod/block/OrangeInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/orange_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/item/orange_inverted_slab.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "PinkInvertedSlab",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/pink_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/pink_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/pink_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/pink_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/pink_inverted_slab_full.json",
+          "src/main/java/net/croma/mod/block/PinkInvertedSlabBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "PurpleInvertedSlab",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/purple_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/purple_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/purple_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/item/purple_inverted_slab.json",
+          "src/main/java/net/croma/mod/block/PurpleInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/purple_inverted_slab_full.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "RedInvertedSlab",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/red_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/red_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/blockstates/red_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/red_inverted_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/red_inverted_slab.json",
+          "src/main/java/net/croma/mod/block/RedInvertedSlabBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "YellowInvertedSlab",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_inverted_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/yellow_inverted_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/yellow_inverted_slab.json",
+          "src/main/java/net/croma/mod/block/YellowInvertedSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/item/yellow_inverted_slab.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_inverted_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_inverted_slab_full.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "ChromaBrick",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chroma_brick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/ChromaBrickBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/item/chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/block/chroma_brick.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "BlueChromaBrick",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_chroma_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/blue_chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/item/blue_chroma_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/blue_chroma_brick.json",
+          "src/main/java/net/croma/mod/block/BlueChromaBrickBlock.java"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "BrownChromaBrick",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_chroma_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/brown_chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/item/brown_chroma_brick.json",
+          "src/main/java/net/croma/mod/block/BrownChromaBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/block/brown_chroma_brick.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "CyanChromaBrick",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_chroma_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/cyan_chroma_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/cyan_chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_chroma_brick.json",
+          "src/main/java/net/croma/mod/block/CyanChromaBrickBlock.java"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "GrayChromaBrick",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_chroma_brick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/GrayChromaBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/item/gray_chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/block/gray_chroma_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/gray_chroma_brick.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "GreenChromaBrick",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_chroma_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/green_chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/block/green_chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/item/green_chroma_brick.json",
+          "src/main/java/net/croma/mod/block/GreenChromaBrickBlock.java"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "MagentaChromaBrick",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_chroma_brick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/MagentaChromaBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/item/magenta_chroma_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/magenta_chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_chroma_brick.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "OrangeChromaBrick",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_chroma_brick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/OrangeChromaBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/block/orange_chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/item/orange_chroma_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/orange_chroma_brick.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "PinkChromaBrick",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_chroma_brick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/PinkChromaBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/item/pink_chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/block/pink_chroma_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/pink_chroma_brick.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "PurpleChromaBrick",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_chroma_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/purple_chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/item/purple_chroma_brick.json",
+          "src/main/java/net/croma/mod/block/PurpleChromaBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/block/purple_chroma_brick.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "RedChromaBrick",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_chroma_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/red_chroma_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/red_chroma_brick.json",
+          "src/main/java/net/croma/mod/block/RedChromaBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/block/red_chroma_brick.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "YellowChromaBrick",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_chroma_brick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/YellowChromaBrickBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/yellow_chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/item/yellow_chroma_brick.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_chroma_brick.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "InvertedBrick",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "inverted_brick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/InvertedBrickBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/inverted_brick.json",
+          "src/main/resources/assets/cromamod/models/item/inverted_brick.json",
+          "src/main/resources/assets/cromamod/models/block/inverted_brick.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "BlueInvertedBrick",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_inverted_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/blue_inverted_brick.json",
+          "src/main/resources/assets/cromamod/models/item/blue_inverted_brick.json",
+          "src/main/resources/assets/cromamod/models/block/blue_inverted_brick.json",
+          "src/main/java/net/croma/mod/block/BlueInvertedBrickBlock.java"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "BrownInvertedBrick",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_inverted_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/brown_inverted_brick.json",
+          "src/main/resources/assets/cromamod/models/item/brown_inverted_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/brown_inverted_brick.json",
+          "src/main/java/net/croma/mod/block/BrownInvertedBrickBlock.java"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "CyanInvertedBrick",
+      "type": "block",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_inverted_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/cyan_inverted_brick.json",
+          "src/main/java/net/croma/mod/block/CyanInvertedBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/item/cyan_inverted_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/cyan_inverted_brick.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "GrayInvertedBrick",
+      "type": "block",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_inverted_brick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/GrayInvertedBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/item/gray_inverted_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/gray_inverted_brick.json",
+          "src/main/resources/assets/cromamod/models/block/gray_inverted_brick.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "GreenInvertedBrick",
+      "type": "block",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_inverted_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/green_inverted_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/green_inverted_brick.json",
+          "src/main/java/net/croma/mod/block/GreenInvertedBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/block/green_inverted_brick.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "MagentaInvertedBrick",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_inverted_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/magenta_inverted_brick.json",
+          "src/main/java/net/croma/mod/block/MagentaInvertedBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/item/magenta_inverted_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/magenta_inverted_brick.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "OrangeInvertedBrick",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_inverted_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/orange_inverted_brick.json",
+          "src/main/resources/assets/cromamod/models/block/orange_inverted_brick.json",
+          "src/main/java/net/croma/mod/block/OrangeInvertedBrickBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/orange_inverted_brick.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "PinkInvertedBrick",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_inverted_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/pink_inverted_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/pink_inverted_brick.json",
+          "src/main/java/net/croma/mod/block/PinkInvertedBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/block/pink_inverted_brick.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "PurpleInvertedBrick",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_inverted_brick",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/purple_inverted_brick.json",
+          "src/main/resources/assets/cromamod/models/item/purple_inverted_brick.json",
+          "src/main/resources/assets/cromamod/models/block/purple_inverted_brick.json",
+          "src/main/java/net/croma/mod/block/PurpleInvertedBrickBlock.java"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "RedInvertedBrick",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_inverted_brick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/RedInvertedBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/item/red_inverted_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/red_inverted_brick.json",
+          "src/main/resources/assets/cromamod/models/block/red_inverted_brick.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "YellowInvertedBrick",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_inverted_brick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/YellowInvertedBrickBlock.java",
+          "src/main/resources/assets/cromamod/models/block/yellow_inverted_brick.json",
+          "src/main/resources/assets/cromamod/models/item/yellow_inverted_brick.json",
+          "src/main/resources/assets/cromamod/blockstates/yellow_inverted_brick.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "ChromaBrickSlab",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chroma_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/ChromaBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/chroma_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/chroma_brick_slab_full.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "BlueChromaBrickSlab",
+      "type": "block",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_chroma_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/BlueChromaBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/blue_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/blue_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/blue_chroma_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/blue_chroma_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/blue_chroma_brick_slab.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "BrownChromaBrickSlab",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_chroma_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/brown_chroma_brick_slab.json",
+          "src/main/java/net/croma/mod/block/BrownChromaBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/brown_chroma_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/blockstates/brown_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/brown_chroma_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/brown_chroma_brick_slab.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "CyanChromaBrickSlab",
+      "type": "block",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_chroma_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/cyan_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/item/cyan_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_chroma_brick_slab_full.json",
+          "src/main/java/net/croma/mod/block/CyanChromaBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/cyan_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_chroma_brick_slab_top.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "GrayChromaBrickSlab",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_chroma_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/gray_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/gray_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/gray_chroma_brick_slab_full.json",
+          "src/main/java/net/croma/mod/block/GrayChromaBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/gray_chroma_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/gray_chroma_brick_slab.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "GreenChromaBrickSlab",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_chroma_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/green_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/green_chroma_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/blockstates/green_chroma_brick_slab.json",
+          "src/main/java/net/croma/mod/block/GreenChromaBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/green_chroma_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/green_chroma_brick_slab.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "MagentaChromaBrickSlab",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_chroma_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/magenta_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_chroma_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/magenta_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_chroma_brick_slab_top.json",
+          "src/main/java/net/croma/mod/block/MagentaChromaBrickSlabBlock.java"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "OrangeChromaBrickSlab",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_chroma_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/orange_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/orange_chroma_brick_slab_top.json",
+          "src/main/java/net/croma/mod/block/OrangeChromaBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/orange_chroma_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/models/item/orange_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/orange_chroma_brick_slab.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "PinkChromaBrickSlab",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_chroma_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/pink_chroma_brick_slab.json",
+          "src/main/java/net/croma/mod/block/PinkChromaBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/pink_chroma_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/blockstates/pink_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/pink_chroma_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/pink_chroma_brick_slab.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "PurpleChromaBrickSlab",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_chroma_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/purple_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/purple_chroma_brick_slab.json",
+          "src/main/java/net/croma/mod/block/PurpleChromaBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/purple_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/purple_chroma_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/purple_chroma_brick_slab_full.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "RedChromaBrickSlab",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_chroma_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/red_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/red_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/red_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/red_chroma_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/red_chroma_brick_slab_full.json",
+          "src/main/java/net/croma/mod/block/RedChromaBrickSlabBlock.java"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "YellowChromaBrickSlab",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_chroma_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/YellowChromaBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/yellow_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/yellow_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_chroma_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/models/item/yellow_chroma_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_chroma_brick_slab_top.json"
+        ]
+      },
+      "path": "~/Chroma Bricks"
+    },
+    {
+      "name": "InvertedBrickSlab",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "inverted_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/inverted_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/inverted_brick_slab_full.json",
+          "src/main/java/net/croma/mod/block/InvertedBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/item/inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/inverted_brick_slab.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "BlueInvertedBrickSlab",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_inverted_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/blockstates/blue_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/blue_inverted_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/blue_inverted_brick_slab_full.json",
+          "src/main/java/net/croma/mod/block/BlueInvertedBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/item/blue_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/blue_inverted_brick_slab.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "BrownInvertedBrickSlab",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_inverted_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/brown_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/brown_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/brown_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/brown_inverted_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/brown_inverted_brick_slab_full.json",
+          "src/main/java/net/croma/mod/block/BrownInvertedBrickSlabBlock.java"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "CyanInvertedBrickSlab",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_inverted_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/CyanInvertedBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/cyan_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/cyan_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/item/cyan_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_inverted_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/cyan_inverted_brick_slab_top.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "GrayInvertedBrickSlab",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_inverted_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/gray_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/gray_inverted_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/blockstates/gray_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/gray_inverted_brick_slab_top.json",
+          "src/main/java/net/croma/mod/block/GrayInvertedBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/item/gray_inverted_brick_slab.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "GreenInvertedBrickSlab",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_inverted_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/item/green_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/green_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/green_inverted_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/green_inverted_brick_slab_top.json",
+          "src/main/java/net/croma/mod/block/GreenInvertedBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/green_inverted_brick_slab.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "MagentaInvertedBrickSlab",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_inverted_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/magenta_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/item/magenta_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_inverted_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/blockstates/magenta_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/magenta_inverted_brick_slab_full.json",
+          "src/main/java/net/croma/mod/block/MagentaInvertedBrickSlabBlock.java"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "OrangeInvertedBrickSlab",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_inverted_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/orange_inverted_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/orange_inverted_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/orange_inverted_brick_slab.json",
+          "src/main/java/net/croma/mod/block/OrangeInvertedBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/item/orange_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/orange_inverted_brick_slab.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "PinkInvertedBrickSlab",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_inverted_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/pink_inverted_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/pink_inverted_brick_slab_top.json",
+          "src/main/java/net/croma/mod/block/PinkInvertedBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/blockstates/pink_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/item/pink_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/pink_inverted_brick_slab.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "PurpleInvertedBrickSlab",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_inverted_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/java/net/croma/mod/block/PurpleInvertedBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/item/purple_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/purple_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/purple_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/block/purple_inverted_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/block/purple_inverted_brick_slab_full.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "RedInvertedBrickSlab",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_inverted_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/red_inverted_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/red_inverted_brick_slab_top.json",
+          "src/main/java/net/croma/mod/block/RedInvertedBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/red_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/models/item/red_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/red_inverted_brick_slab.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    },
+    {
+      "name": "YellowInvertedBrickSlab",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_inverted_brick_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cromamod/models/block/yellow_inverted_brick_slab_top.json",
+          "src/main/resources/assets/cromamod/models/item/yellow_inverted_brick_slab.json",
+          "src/main/resources/assets/cromamod/blockstates/yellow_inverted_brick_slab.json",
+          "src/main/java/net/croma/mod/block/YellowInvertedBrickSlabBlock.java",
+          "src/main/resources/assets/cromamod/models/block/yellow_inverted_brick_slab_full.json",
+          "src/main/resources/assets/cromamod/models/block/yellow_inverted_brick_slab.json"
+        ]
+      },
+      "path": "~/Inverted Bricks"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.cromamod.blue_chroma_tile": "Blue Chroma Tile",
+      "block.cromamod.cyan_chroma_brick": "Cyan Chroma Brick",
+      "block.cromamod.blue_inverted_brick": "Blue Inverted Brick",
+      "block.cromamod.green_cut_chroma_tile": "Green Cut Chroma Tile",
+      "block.cromamod.purple_cut_chroma_slab": "Purple Cut Chroma Slab",
+      "block.cromamod.blue_cut_chroma_slab": "Blue Cut Chroma Slab",
+      "block.cromamod.gray_inverted_brick": "Gray Inverted Brick",
+      "block.cromamod.magenta_inverted_tile": "Magenta Inverted Tile",
+      "block.cromamod.brown_chroma_brick": "Brown Chroma Brick",
+      "block.cromamod.green_inverted_brick_slab": "Green Inverted Brick Slab",
+      "block.cromamod.pink_cut_inverted_tile": "Pink Cut Inverted Tile",
+      "block.cromamod.cut_chroma_tile": "Cut Chroma Tile",
+      "block.cromamod.blue_cut_inverted_tile": "Blue Cut Inverted Tile",
+      "block.cromamod.red_cut_inverted_tile": "Red Cut Inverted Tile",
+      "block.cromamod.gray_cut_chroma_slab": "Gray Cut Chroma Slab",
+      "block.cromamod.yellow_inverted_brick": "Yellow Inverted Brick",
+      "block.cromamod.yellow_chroma_tile": "Yellow Chroma Tile",
+      "block.cromamod.blue_chroma_brick": "Blue Chroma Brick",
+      "block.cromamod.orange_inverted_tile": "Orange Inverted Tile",
+      "block.cromamod.green_chroma_slab": "Green Chroma Slab",
+      "block.cromamod.red_inverted_tile": "Red Inverted Tile",
+      "block.cromamod.brown_chroma_tile": "Brown Chroma Tile",
+      "itemGroup.tabchromatic_building_blocks_tab": "Chromatic Blocks",
+      "block.cromamod.green_cut_inverted_slab": "Green Cut Inverted Slab",
+      "block.cromamod.magenta_inverted_brick_slab": "Magenta Inverted Brick Slab",
+      "itemGroup.tabchromatic_decor_tab": "Chromatic Decor",
+      "block.cromamod.cyan_cut_chroma_slab": "Cyan Cut Chroma Slab",
+      "block.cromamod.green_inverted_tile": "Green Inverted Tile",
+      "block.cromamod.cyan_cut_inverted_tile": "Cyan Cut Inverted Tile",
+      "block.cromamod.cyan_inverted_tile": "Cyan Inverted Tile",
+      "block.cromamod.yellow_cut_chroma_tile": "Yellow Cut Chroma Tile",
+      "block.cromamod.gray_cut_inverted_tile": "Gray Cut Inverted Tile",
+      "block.cromamod.cyan_chroma_slab": "Cyan Chroma Slab",
+      "block.cromamod.orange_chroma_slab": "Orange Chroma Slab",
+      "block.cromamod.blue_inverted_slab": "Blue Inverted Slab",
+      "block.cromamod.cyan_inverted_brick": "Cyan Inverted Brick",
+      "block.cromamod.yellow_chroma_brick_slab": "Yellow Chroma Brick Slab",
+      "block.cromamod.red_cut_chroma_tile": "Red Cut Chroma Tile",
+      "block.cromamod.magenta_inverted_brick": "Magenta Inverted Brick",
+      "block.cromamod.yellow_inverted_brick_slab": "Yellow Inverted Brick Slab",
+      "block.cromamod.purple_inverted_slab": "Purple Inverted Slab",
+      "block.cromamod.chroma_brick_slab": "Chroma Brick Slab",
+      "block.cromamod.brown_chroma_brick_slab": "Brown Chroma Brick Slab",
+      "block.cromamod.cut_inverted_slab": "Cut Inverted Slab",
+      "block.cromamod.pink_chroma_slab": "Pink Chroma Slab",
+      "block.cromamod.inverted_brick": "Inverted Brick",
+      "block.cromamod.orange_cut_inverted_slab": "Orange Cut Inverted Slab",
+      "block.cromamod.orange_chroma_brick_slab": "Orange Chroma Brick Slab",
+      "block.cromamod.cyan_chroma_tile": "Cyan Chroma Tile",
+      "block.cromamod.magenta_cut_chroma_slab": "Magenta Cut Chroma Slab",
+      "block.cromamod.pink_inverted_brick_slab": "Pink Inverted Brick Slab",
+      "block.cromamod.brown_inverted_tile": "Brown Inverted Tile",
+      "block.cromamod.brown_cut_chroma_tile": "Brown Cut Chroma Tile",
+      "block.cromamod.cyan_cut_chroma_tile": "Cyan Cut Chroma Tile",
+      "block.cromamod.gray_chroma_slab": "Gray Chroma Slab",
+      "block.cromamod.gray_inverted_tile": "Gray Inverted Tile",
+      "block.cromamod.chroma_slab": "Chroma Slab",
+      "block.cromamod.inverted_slab": "Inverted Slab",
+      "block.cromamod.red_chroma_slab": "Red Chroma Slab",
+      "block.cromamod.purple_chroma_slab": "Purple Chroma Slab",
+      "block.cromamod.orange_cut_chroma_tile": "Orange Cut Chroma Tile",
+      "block.cromamod.yellow_cut_inverted_slab": "Yellow Cut Inverted Slab",
+      "block.cromamod.pink_inverted_slab": "Pink Inverted Slab",
+      "block.cromamod.magenta_chroma_tile": "Magenta Chroma Tile",
+      "block.cromamod.yellow_inverted_tile": "Yellow Inverted Tile",
+      "block.cromamod.orange_chroma_brick": "Orange Chroma Brick",
+      "block.cromamod.pink_cut_chroma_slab": "Pink Cut Chroma Slab",
+      "block.cromamod.brown_cut_inverted_tile": "Brown Cut Inverted Tile",
+      "block.cromamod.pink_inverted_brick": "Pink Inverted Brick",
+      "block.cromamod.gray_chroma_brick_slab": "Gray Chroma Brick Slab",
+      "block.cromamod.magenta_chroma_brick_slab": "Magenta Chroma Brick Slab",
+      "block.cromamod.gray_cut_inverted_slab": "Gray Cut Inverted Slab",
+      "block.cromamod.cyan_chroma_brick_slab": "Cyan Chroma Brick Slab",
+      "block.cromamod.magenta_inverted_slab": "Magenta Inverted Slab",
+      "block.cromamod.purple_cut_inverted_slab": "Purple Cut Inverted Slab",
+      "block.cromamod.pink_chroma_brick": "Pink Chroma Brick",
+      "block.cromamod.purple_chroma_brick_slab": "Purple Chroma Brick Slab",
+      "block.cromamod.red_inverted_brick_slab": "Red Inverted Brick Slab",
+      "block.cromamod.gray_inverted_brick_slab": "Gray Inverted Brick Slab",
+      "block.cromamod.cyan_inverted_brick_slab": "Cyan Inverted Brick Slab",
+      "block.cromamod.cyan_inverted_slab": "Cyan Inverted Slab",
+      "block.cromamod.green_inverted_brick": "Green Inverted Brick",
+      "block.cromamod.red_cut_inverted_slab": "Red Cut Inverted Slab",
+      "block.cromamod.blue_chroma_slab": "Blue Chroma Slab",
+      "block.cromamod.orange_inverted_brick_slab": "Orange Inverted Brick Slab",
+      "block.cromamod.orange_inverted_brick": "Orange Inverted Brick",
+      "block.cromamod.chroma_tile": "Chroma Tile",
+      "block.cromamod.pink_cut_inverted_slab": "Pink Cut Inverted Slab",
+      "block.cromamod.blue_chroma_brick_slab": "Blue Chroma Brick Slab",
+      "block.cromamod.inverted_brick_slab": "Inverted Brick Slab",
+      "block.cromamod.purple_inverted_brick_slab": "Purple Inverted Brick Slab",
+      "block.cromamod.cyan_cut_inverted_slab": "Cyan Cut Inverted Slab",
+      "block.cromamod.green_inverted_slab": "Green Inverted Slab",
+      "block.cromamod.green_chroma_brick": "Green Chroma Brick",
+      "block.cromamod.gray_chroma_brick": "Gray Chroma Brick",
+      "block.cromamod.red_chroma_brick_slab": "Red Chroma Brick Slab",
+      "block.cromamod.gray_chroma_tile": "Gray Chroma Tile",
+      "block.cromamod.orange_chroma_tile": "Orange Chroma Tile",
+      "block.cromamod.chroma_brick": "Chroma Brick",
+      "block.cromamod.yellow_cut_chroma_slab": "Yellow Cut Chroma Slab",
+      "block.cromamod.green_cut_inverted_tile": "Green Cut Inverted Tile",
+      "block.cromamod.brown_inverted_brick": "Brown Inverted Brick",
+      "block.cromamod.red_cut_chroma_slab": "Red Cut Chroma Slab",
+      "block.cromamod.magenta_cut_inverted_slab": "Magenta Cut Inverted Slab",
+      "block.cromamod.purple_chroma_brick": "Purple Chroma Brick",
+      "block.cromamod.blue_cut_inverted_slab": "Blue Cut Inverted Slab",
+      "block.cromamod.orange_inverted_slab": "Orange Inverted Slab",
+      "block.cromamod.purple_cut_chroma_tile": "Purple Cut Chroma Tile",
+      "block.cromamod.purple_inverted_tile": "Purple Inverted Tile",
+      "block.cromamod.blue_inverted_tile": "Blue Inverted Tile",
+      "block.cromamod.red_inverted_slab": "Red Inverted Slab",
+      "block.cromamod.brown_chroma_slab": "Brown Chroma Slab",
+      "block.cromamod.yellow_chroma_slab": "Yellow Chroma Slab",
+      "block.cromamod.magenta_cut_chroma_tile": "Magenta Cut Chroma Tile",
+      "block.cromamod.brown_inverted_brick_slab": "Brown Inverted Brick Slab",
+      "block.cromamod.red_inverted_brick": "Red Inverted Brick",
+      "block.cromamod.magenta_chroma_brick": "Magenta Chroma Brick",
+      "block.cromamod.inverted_tile": "Inverted Tile",
+      "block.cromamod.pink_chroma_tile": "Pink Chroma Tile",
+      "block.cromamod.green_chroma_tile": "Green Chroma Tile",
+      "block.cromamod.brown_cut_chroma_slab": "Brown Cut Chroma Slab",
+      "block.cromamod.orange_cut_inverted_tile": "Orange Cut Inverted Tile",
+      "block.cromamod.purple_inverted_brick": "Purple Inverted Brick",
+      "block.cromamod.gray_inverted_slab": "Gray Inverted Slab",
+      "block.cromamod.green_chroma_brick_slab": "Green Chroma Brick Slab",
+      "block.cromamod.yellow_chroma_brick": "Red Chroma Brick",
+      "block.cromamod.brown_inverted_slab": "Brown Inverted Slab",
+      "block.cromamod.purple_chroma_tile": "Purple Chroma Tile",
+      "block.cromamod.pink_inverted_tile": "Pink Inverted Tile",
+      "block.cromamod.yellow_inverted_slab": "Yellow Inverted Slab",
+      "block.cromamod.red_chroma_brick": "Red Chroma Brick",
+      "block.cromamod.blue_inverted_brick_slab": "Blue Inverted Brick Slab",
+      "block.cromamod.cut_chroma_slab": "Cut Chroma Slab",
+      "block.cromamod.magente_cut_inverted_tile": "Magenta Cut Inverted Tile",
+      "block.cromamod.gray_cut_chroma_tile": "Gray Cut Chroma Tile",
+      "block.cromamod.pink_chroma_brick_slab": "Pink Chroma Brick Slab",
+      "block.cromamod.green_cut_chroma_slab": "Green Cut Chroma Slab",
+      "block.cromamod.purple_cut_inverted_tile": "Purple Cut Inverted Tile",
+      "block.cromamod.red_chroma_tile": "Red Chroma Tile",
+      "block.cromamod.cut_inverted_tile": "Cut Inverted Tile",
+      "block.cromamod.orange_cut_chroma_slab": "Orange Cut Chroma Slab",
+      "block.cromamod.pink_cut_chroma_tile": "Pink Cut Chroma Tile",
+      "block.cromamod.brown_cut_inverted_slab": "Brown Cut Inverted Slab",
+      "block.cromamod.blue_cut_chroma_tile": "Blue Cut Chroma Tile",
+      "block.cromamod.magenta_chroma_slab": "Magenta Chroma Slab",
+      "block.cromamod.yellow_cut_inverted_tile": "Yellow Cut Inverted Tile"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Chroma Tiles",
+        "children": [
+          {
+            "name": "Cut Chroma",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Inverted Tiles",
+        "children": [
+          {
+            "name": "Cut Inverted",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Chroma Bricks",
+        "children": [
+          {
+            "name": "Small Chroma Bricks",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Inverted Bricks",
+        "children": [
+          {
+            "name": "Small Inverted Bricks",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "cromamod",
+    "modName": "Cromatic",
+    "version": "1.0.0",
+    "description": "When the colors clash, who shall will rise above?",
+    "author": "ZombieHiperativo",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.croma.mod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

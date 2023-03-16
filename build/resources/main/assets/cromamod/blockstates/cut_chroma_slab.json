@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cromamod:block/cut_chroma_slab"
+    },
+    "type=top": {
+      "model": "cromamod:block/cut_chroma_slab_top"
+    },
+    "type=double": {
+      "model": "cromamod:block/cut_chroma_slab_full"
+    }
+  }
+}

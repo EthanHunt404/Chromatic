@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cromamod:blocks/inverted_brick",
+    "up": "cromamod:blocks/inverted_brick",
+    "north": "cromamod:blocks/inverted_brick",
+    "east": "cromamod:blocks/inverted_brick",
+    "south": "cromamod:blocks/inverted_brick",
+    "west": "cromamod:blocks/inverted_brick",
+    "particle": "cromamod:blocks/inverted_brick"
+  },
+  "render_type": "solid"
+}

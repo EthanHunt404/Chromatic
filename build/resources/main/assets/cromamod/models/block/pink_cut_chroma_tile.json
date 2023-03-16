@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cromamod:blocks/pink_cut_chroma_tile",
+    "up": "cromamod:blocks/pink_cut_chroma_tile",
+    "north": "cromamod:blocks/pink_cut_chroma_tile",
+    "east": "cromamod:blocks/pink_cut_chroma_tile",
+    "south": "cromamod:blocks/pink_cut_chroma_tile",
+    "west": "cromamod:blocks/pink_cut_chroma_tile",
+    "particle": "cromamod:blocks/pink_cut_chroma_tile"
+  },
+  "render_type": "solid"
+}

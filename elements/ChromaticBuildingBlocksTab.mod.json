@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "Chromatic Blocks",
+    "icon": {
+      "value": "CUSTOM:ChromaTile"
+    },
+    "showSearch": true
+  }
+}

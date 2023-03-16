@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cromamod:block/magenta_cut_chroma_tile"
+    }
+  }
+}

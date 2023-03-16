@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cromamod:block/cut_inverted_tile"
+    }
+  }
+}

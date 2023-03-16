@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cromamod:blocks/red_inverted_tile_bottomup",
+    "up": "cromamod:blocks/red_inverted_tile_bottomup",
+    "north": "cromamod:blocks/red_inverted_tile_side",
+    "east": "cromamod:blocks/red_inverted_tile_side",
+    "south": "cromamod:blocks/red_inverted_tile_side",
+    "west": "cromamod:blocks/red_inverted_tile_side",
+    "particle": "cromamod:blocks/red_inverted_tile_bottomup"
+  },
+  "render_type": "solid"
+}

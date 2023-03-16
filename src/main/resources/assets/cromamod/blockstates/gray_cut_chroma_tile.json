@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cromamod:block/gray_cut_chroma_tile"
+    }
+  }
+}

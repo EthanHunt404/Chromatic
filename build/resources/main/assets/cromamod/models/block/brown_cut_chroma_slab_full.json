@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cromamod:blocks/brown_cut_chroma_tile",
+    "top": "cromamod:blocks/brown_cut_chroma_tile",
+    "side": "cromamod:blocks/brown_cut_chroma_tile"
+  },
+  "render_type": "solid"
+}
