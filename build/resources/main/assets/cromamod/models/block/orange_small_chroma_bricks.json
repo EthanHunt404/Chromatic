@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cromamod:blocks/orange_small_chroma_brick",
+    "up": "cromamod:blocks/orange_small_chroma_brick",
+    "north": "cromamod:blocks/orange_small_chroma_brick",
+    "east": "cromamod:blocks/orange_small_chroma_brick",
+    "south": "cromamod:blocks/orange_small_chroma_brick",
+    "west": "cromamod:blocks/orange_small_chroma_brick",
+    "particle": "cromamod:blocks/orange_small_chroma_brick"
+  },
+  "render_type": "solid"
+}
