@@ -197,6 +197,18 @@ public class CromamodModItems {
 	public static final RegistryObject<Item> PURPLE_SMALL_CHROMA_BRICK_SLAB = block(CromamodModBlocks.PURPLE_SMALL_CHROMA_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_DECOR_TAB);
 	public static final RegistryObject<Item> RED_SMALL_CHROMA_BRICK_SLAB = block(CromamodModBlocks.RED_SMALL_CHROMA_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_DECOR_TAB);
 	public static final RegistryObject<Item> YELLOW_SMALL_CHROMA_BRICK_SLAB = block(CromamodModBlocks.YELLOW_SMALL_CHROMA_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_DECOR_TAB);
+	public static final RegistryObject<Item> SMALL_INVERTED_BRICK_SLAB = block(CromamodModBlocks.SMALL_INVERTED_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_BUILDING_BLOCKS_TAB);
+	public static final RegistryObject<Item> BLUE_SMALL_INVERTED_BRICK_SLAB = block(CromamodModBlocks.BLUE_SMALL_INVERTED_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_BUILDING_BLOCKS_TAB);
+	public static final RegistryObject<Item> BROWN_SMALL_INVERTED_BRICK_SLAB = block(CromamodModBlocks.BROWN_SMALL_INVERTED_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_BUILDING_BLOCKS_TAB);
+	public static final RegistryObject<Item> CYAN_SMALL_INVERTED_BRICK_SLAB = block(CromamodModBlocks.CYAN_SMALL_INVERTED_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_BUILDING_BLOCKS_TAB);
+	public static final RegistryObject<Item> GRAY_SMALL_INVERTED_BRICK_SLAB = block(CromamodModBlocks.GRAY_SMALL_INVERTED_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_BUILDING_BLOCKS_TAB);
+	public static final RegistryObject<Item> GREEN_SMALL_INVERTED_BRICK_SLAB = block(CromamodModBlocks.GREEN_SMALL_INVERTED_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_BUILDING_BLOCKS_TAB);
+	public static final RegistryObject<Item> MAGENTA_SMALL_INVERTED_BRICK_SLAB = block(CromamodModBlocks.MAGENTA_SMALL_INVERTED_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_BUILDING_BLOCKS_TAB);
+	public static final RegistryObject<Item> ORANGE_SMALL_INVERTED_BRICK_SLAB = block(CromamodModBlocks.ORANGE_SMALL_INVERTED_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_BUILDING_BLOCKS_TAB);
+	public static final RegistryObject<Item> PINK_SMALL_INVERTED_BRICK_SLAB = block(CromamodModBlocks.PINK_SMALL_INVERTED_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_BUILDING_BLOCKS_TAB);
+	public static final RegistryObject<Item> PURPLE_SMALL_INVERTED_BRICK_SLAB = block(CromamodModBlocks.PURPLE_SMALL_INVERTED_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_BUILDING_BLOCKS_TAB);
+	public static final RegistryObject<Item> RED_SMALL_INVERTED_BRICK_SLAB = block(CromamodModBlocks.RED_SMALL_INVERTED_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_BUILDING_BLOCKS_TAB);
+	public static final RegistryObject<Item> YELLOW_SMALL_INVERTED_BRICK_SLAB = block(CromamodModBlocks.YELLOW_SMALL_INVERTED_BRICK_SLAB, CromamodModTabs.TAB_CHROMATIC_BUILDING_BLOCKS_TAB);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
