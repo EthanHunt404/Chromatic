@@ -2,12 +2,12 @@
   "_fv": 39,
   "_type": "block",
   "definition": {
-    "texture": "small_chroma_brick",
-    "textureTop": "small_chroma_brick",
-    "textureLeft": "small_chroma_brick",
-    "textureFront": "small_chroma_brick",
-    "textureRight": "small_chroma_brick",
-    "textureBack": "small_chroma_brick",
+    "texture": "blue_small_chroma_brick",
+    "textureTop": "blue_small_chroma_brick",
+    "textureLeft": "blue_small_chroma_brick",
+    "textureFront": "blue_small_chroma_brick",
+    "textureRight": "blue_small_chroma_brick",
+    "textureBack": "blue_small_chroma_brick",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -33,7 +33,7 @@
         "subtract": false
       }
     ],
-    "name": "Small Chroma Bricks",
+    "name": "Blue Small Chroma Bricks",
     "specialInfo": [],
     "hardness": 0.9,
     "resistance": 6.0,

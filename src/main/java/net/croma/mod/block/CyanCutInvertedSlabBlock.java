@@ -17,7 +17,7 @@ import java.util.Collections;
 
 public class CyanCutInvertedSlabBlock extends SlabBlock {
 	public CyanCutInvertedSlabBlock() {
-		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(2.5f, 6f).lightLevel(s -> 4).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true).dynamicShape());
+		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.COPPER).strength(2.5f, 6f).lightLevel(s -> 4).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true).dynamicShape());
 	}
 
 	@Override

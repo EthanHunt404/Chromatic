@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cromamod:blocks/blue_small_chroma_brick",
+    "top": "cromamod:blocks/blue_small_chroma_brick",
+    "side": "cromamod:blocks/blue_small_chroma_brick"
+  },
+  "render_type": "solid"
+}
