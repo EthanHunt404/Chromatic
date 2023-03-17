@@ -18,7 +18,7 @@ import java.util.Collections;
 
 public class CyanInvertedTileBlock extends Block {
 	public CyanInvertedTileBlock() {
-		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(3f, 6f).lightLevel(s -> 5).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true));
+		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.COPPER).strength(3f, 6f).lightLevel(s -> 5).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true));
 	}
 
 	@Override

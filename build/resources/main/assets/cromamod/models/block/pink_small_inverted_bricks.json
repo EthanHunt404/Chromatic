@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cromamod:blocks/pink_small_inverted_brick",
+    "up": "cromamod:blocks/pink_small_inverted_brick",
+    "north": "cromamod:blocks/pink_small_inverted_brick",
+    "east": "cromamod:blocks/pink_small_inverted_brick",
+    "south": "cromamod:blocks/pink_small_inverted_brick",
+    "west": "cromamod:blocks/pink_small_inverted_brick",
+    "particle": "cromamod:blocks/pink_small_inverted_brick"
+  },
+  "render_type": "solid"
+}

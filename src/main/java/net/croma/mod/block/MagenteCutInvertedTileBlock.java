@@ -18,7 +18,7 @@ import java.util.Collections;
 
 public class MagenteCutInvertedTileBlock extends Block {
 	public MagenteCutInvertedTileBlock() {
-		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(2.7f, 6f).lightLevel(s -> 4).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true));
+		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.COPPER).strength(2.7f, 6f).lightLevel(s -> 4).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true));
 	}
 
 	@Override

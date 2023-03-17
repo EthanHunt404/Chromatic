@@ -17,7 +17,7 @@ import java.util.Collections;
 
 public class OrangeInvertedSlabBlock extends SlabBlock {
 	public OrangeInvertedSlabBlock() {
-		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.METAL).strength(2.8000000000000003f, 6f).lightLevel(s -> 5).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true).dynamicShape());
+		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.COPPER).strength(2.8000000000000003f, 6f).lightLevel(s -> 5).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true).dynamicShape());
 	}
 
 	@Override
