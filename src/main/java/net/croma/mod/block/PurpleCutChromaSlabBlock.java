@@ -17,7 +17,7 @@ import java.util.Collections;
 
 public class PurpleCutChromaSlabBlock extends SlabBlock {
 	public PurpleCutChromaSlabBlock() {
-		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.NETHERITE_BLOCK).strength(1.4f, 1600f).lightLevel(s -> 1).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true).dynamicShape());
+		super(BlockBehaviour.Properties.of(Material.METAL).sound(SoundType.NETHERITE_BLOCK).strength(1.2f, 1600f).lightLevel(s -> 1).hasPostProcess((bs, br, bp) -> true).emissiveRendering((bs, br, bp) -> true).dynamicShape());
 	}
 
 	@Override

@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cromamod:blocks/green_cut_chroma_tile",
+    "top": "cromamod:blocks/green_cut_chroma_tile",
+    "side": "cromamod:blocks/green_cut_chroma_tile"
+  },
+  "render_type": "solid"
+}
