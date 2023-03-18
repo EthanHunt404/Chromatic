@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chromatic:block/gray_chroma_tile"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "chromatic:blocks/green_small_chroma_brick",
+    "top": "chromatic:blocks/green_small_chroma_brick",
+    "side": "chromatic:blocks/green_small_chroma_brick"
+  },
+  "render_type": "solid"
+}

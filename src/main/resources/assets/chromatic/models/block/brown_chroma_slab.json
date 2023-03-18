@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "chromatic:blocks/brown_chroma_tile_bottomup",
+    "top": "chromatic:blocks/brown_chroma_tile_bottomup",
+    "side": "chromatic:blocks/brown_chroma_tile_side"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "chromatic:blocks/cut_inverted_tile",
+    "top": "chromatic:blocks/cut_inverted_tile",
+    "side": "chromatic:blocks/cut_inverted_tile"
+  },
+  "render_type": "solid"
+}

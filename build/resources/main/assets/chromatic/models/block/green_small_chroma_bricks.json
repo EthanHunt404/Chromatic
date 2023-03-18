@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chromatic:blocks/green_small_chroma_brick",
+    "up": "chromatic:blocks/green_small_chroma_brick",
+    "north": "chromatic:blocks/green_small_chroma_brick",
+    "east": "chromatic:blocks/green_small_chroma_brick",
+    "south": "chromatic:blocks/green_small_chroma_brick",
+    "west": "chromatic:blocks/green_small_chroma_brick",
+    "particle": "chromatic:blocks/green_small_chroma_brick"
+  },
+  "render_type": "solid"
+}

@@ -1,9 +1,0 @@
-{
-  "parent": "block/cube_bottom_top",
-  "textures": {
-    "bottom": "cromamod:blocks/purple_inverted_tile_bottomup",
-    "top": "cromamod:blocks/purple_inverted_tile_bottomup",
-    "side": "cromamod:blocks/purple_inverted_tile_side"
-  },
-  "render_type": "solid"
-}

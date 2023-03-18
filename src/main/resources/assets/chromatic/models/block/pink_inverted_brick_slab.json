@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "chromatic:blocks/pink_inverted_brick",
+    "top": "chromatic:blocks/pink_inverted_brick",
+    "side": "chromatic:blocks/pink_inverted_brick"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "chromatic:blocks/pink_chroma_brick",
+    "top": "chromatic:blocks/pink_chroma_brick",
+    "side": "chromatic:blocks/pink_chroma_brick"
+  },
+  "render_type": "solid"
+}

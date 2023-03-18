@@ -35,14 +35,14 @@
     ],
     "name": "Green Cut Chroma Tile",
     "specialInfo": [],
-    "hardness": 1.4,
+    "hardness": 14.0,
     "resistance": 1600.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ChromaticBuildingBlocksTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },

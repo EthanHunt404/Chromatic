@@ -36,14 +36,14 @@
     ],
     "name": "Gray Cut Chroma Slab",
     "specialInfo": [],
-    "hardness": 1.2,
+    "hardness": 12.0,
     "resistance": 1600.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ChromaticDecorTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },

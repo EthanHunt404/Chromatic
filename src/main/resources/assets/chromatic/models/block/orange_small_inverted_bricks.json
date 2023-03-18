@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chromatic:blocks/orange_small_inverted_brick",
+    "up": "chromatic:blocks/orange_small_inverted_brick",
+    "north": "chromatic:blocks/orange_small_inverted_brick",
+    "east": "chromatic:blocks/orange_small_inverted_brick",
+    "south": "chromatic:blocks/orange_small_inverted_brick",
+    "west": "chromatic:blocks/orange_small_inverted_brick",
+    "particle": "chromatic:blocks/orange_small_inverted_brick"
+  },
+  "render_type": "solid"
+}

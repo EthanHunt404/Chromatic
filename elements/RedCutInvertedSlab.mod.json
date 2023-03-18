@@ -36,14 +36,14 @@
     ],
     "name": "Red Cut Inverted Slab",
     "specialInfo": [],
-    "hardness": 2.5,
+    "hardness": 25.0,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ChromaticDecorTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },
