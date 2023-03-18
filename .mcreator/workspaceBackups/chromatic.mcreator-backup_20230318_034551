@@ -3,7 +3,7 @@
     {
       "name": "ChromaticBuildingBlocksTab",
       "type": "tab",
-      "sortid": 229,
+      "sortid": 289,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chromatic_building_blocks_tab",
@@ -830,7 +830,7 @@
     {
       "name": "CutInvertedSlab",
       "type": "block",
-      "sortid": 148,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_inverted_slab",
@@ -849,7 +849,7 @@
     {
       "name": "BlueCutInvertedSlab",
       "type": "block",
-      "sortid": 133,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_cut_inverted_slab",
@@ -868,7 +868,7 @@
     {
       "name": "BrownCutInvertedSlab",
       "type": "block",
-      "sortid": 134,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_cut_inverted_slab",
@@ -887,7 +887,7 @@
     {
       "name": "CyanCutInvertedSlab",
       "type": "block",
-      "sortid": 147,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_cut_inverted_slab",
@@ -906,7 +906,7 @@
     {
       "name": "GrayCutInvertedSlab",
       "type": "block",
-      "sortid": 149,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_cut_inverted_slab",
@@ -925,7 +925,7 @@
     {
       "name": "GreenCutInvertedSlab",
       "type": "block",
-      "sortid": 150,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_cut_inverted_slab",
@@ -944,7 +944,7 @@
     {
       "name": "MagentaCutInvertedSlab",
       "type": "block",
-      "sortid": 151,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_cut_inverted_slab",
@@ -963,7 +963,7 @@
     {
       "name": "OrangeCutInvertedSlab",
       "type": "block",
-      "sortid": 152,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_cut_inverted_slab",
@@ -982,7 +982,7 @@
     {
       "name": "PinkCutInvertedSlab",
       "type": "block",
-      "sortid": 153,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_cut_inverted_slab",
@@ -1001,7 +1001,7 @@
     {
       "name": "PurpleCutInvertedSlab",
       "type": "block",
-      "sortid": 154,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_cut_inverted_slab",
@@ -1020,7 +1020,7 @@
     {
       "name": "RedCutInvertedSlab",
       "type": "block",
-      "sortid": 155,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_cut_inverted_slab",
@@ -1039,7 +1039,7 @@
     {
       "name": "YellowCutInvertedSlab",
       "type": "block",
-      "sortid": 156,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_cut_inverted_slab",
@@ -1058,7 +1058,7 @@
     {
       "name": "CutChromaSlab",
       "type": "block",
-      "sortid": 121,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_chroma_slab",
@@ -1077,7 +1077,7 @@
     {
       "name": "BlueCutChromaSlab",
       "type": "block",
-      "sortid": 122,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_cut_chroma_slab",
@@ -1096,7 +1096,7 @@
     {
       "name": "BrownCutChromaSlab",
       "type": "block",
-      "sortid": 123,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_cut_chroma_slab",
@@ -1115,7 +1115,7 @@
     {
       "name": "CyanCutChromaSlab",
       "type": "block",
-      "sortid": 124,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_cut_chroma_slab",
@@ -1134,7 +1134,7 @@
     {
       "name": "GrayCutChromaSlab",
       "type": "block",
-      "sortid": 125,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_cut_chroma_slab",
@@ -1153,7 +1153,7 @@
     {
       "name": "GreenCutChromaSlab",
       "type": "block",
-      "sortid": 126,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_cut_chroma_slab",
@@ -1172,7 +1172,7 @@
     {
       "name": "MagentaCutChromaSlab",
       "type": "block",
-      "sortid": 127,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_cut_chroma_slab",
@@ -1191,7 +1191,7 @@
     {
       "name": "OrangeCutChromaSlab",
       "type": "block",
-      "sortid": 128,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_cut_chroma_slab",
@@ -1210,7 +1210,7 @@
     {
       "name": "PinkCutChromaSlab",
       "type": "block",
-      "sortid": 129,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_cut_chroma_slab",
@@ -1229,7 +1229,7 @@
     {
       "name": "PurpleCutChromaSlab",
       "type": "block",
-      "sortid": 130,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_cut_chroma_slab",
@@ -1248,7 +1248,7 @@
     {
       "name": "RedCutChromaSlab",
       "type": "block",
-      "sortid": 131,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_cut_chroma_slab",
@@ -1267,7 +1267,7 @@
     {
       "name": "YellowCutChromaSlab",
       "type": "block",
-      "sortid": 132,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_cut_chroma_slab",
@@ -1286,7 +1286,7 @@
     {
       "name": "ChromaSlab",
       "type": "block",
-      "sortid": 109,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chroma_slab",
@@ -1305,7 +1305,7 @@
     {
       "name": "BlueChromaSlab",
       "type": "block",
-      "sortid": 110,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_chroma_slab",
@@ -1324,7 +1324,7 @@
     {
       "name": "BrownChromaSlab",
       "type": "block",
-      "sortid": 111,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_chroma_slab",
@@ -1343,7 +1343,7 @@
     {
       "name": "CyanChromaSlab",
       "type": "block",
-      "sortid": 112,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_chroma_slab",
@@ -1362,7 +1362,7 @@
     {
       "name": "GrayChromaSlab",
       "type": "block",
-      "sortid": 113,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_chroma_slab",
@@ -1381,7 +1381,7 @@
     {
       "name": "GreenChromaSlab",
       "type": "block",
-      "sortid": 114,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_chroma_slab",
@@ -1400,7 +1400,7 @@
     {
       "name": "MagentaChromaSlab",
       "type": "block",
-      "sortid": 115,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_chroma_slab",
@@ -1419,7 +1419,7 @@
     {
       "name": "OrangeChromaSlab",
       "type": "block",
-      "sortid": 116,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_chroma_slab",
@@ -1438,7 +1438,7 @@
     {
       "name": "PinkChromaSlab",
       "type": "block",
-      "sortid": 117,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_chroma_slab",
@@ -1457,7 +1457,7 @@
     {
       "name": "PurpleChromaSlab",
       "type": "block",
-      "sortid": 118,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_chroma_slab",
@@ -1476,7 +1476,7 @@
     {
       "name": "RedChromaSlab",
       "type": "block",
-      "sortid": 119,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_chroma_slab",
@@ -1495,7 +1495,7 @@
     {
       "name": "YellowChromaSlab",
       "type": "block",
-      "sortid": 120,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_chroma_slab",
@@ -1514,7 +1514,7 @@
     {
       "name": "ChromaticDecorTab",
       "type": "tab",
-      "sortid": 230,
+      "sortid": 290,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chromatic_decor_tab",
@@ -1525,7 +1525,7 @@
     {
       "name": "InvertedSlab",
       "type": "block",
-      "sortid": 135,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "registry_name": "inverted_slab",
@@ -1544,7 +1544,7 @@
     {
       "name": "BlueInvertedSlab",
       "type": "block",
-      "sortid": 136,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_inverted_slab",
@@ -1563,7 +1563,7 @@
     {
       "name": "BrownInvertedSlab",
       "type": "block",
-      "sortid": 137,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_inverted_slab",
@@ -1582,7 +1582,7 @@
     {
       "name": "CyanInvertedSlab",
       "type": "block",
-      "sortid": 138,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_inverted_slab",
@@ -1601,7 +1601,7 @@
     {
       "name": "GrayInvertedSlab",
       "type": "block",
-      "sortid": 139,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_inverted_slab",
@@ -1620,7 +1620,7 @@
     {
       "name": "GreenInvertedSlab",
       "type": "block",
-      "sortid": 140,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_inverted_slab",
@@ -1639,7 +1639,7 @@
     {
       "name": "MagentaInvertedSlab",
       "type": "block",
-      "sortid": 141,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_inverted_slab",
@@ -1658,7 +1658,7 @@
     {
       "name": "OrangeInvertedSlab",
       "type": "block",
-      "sortid": 142,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_inverted_slab",
@@ -1677,7 +1677,7 @@
     {
       "name": "PinkInvertedSlab",
       "type": "block",
-      "sortid": 143,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_inverted_slab",
@@ -1696,7 +1696,7 @@
     {
       "name": "PurpleInvertedSlab",
       "type": "block",
-      "sortid": 144,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_inverted_slab",
@@ -1715,7 +1715,7 @@
     {
       "name": "RedInvertedSlab",
       "type": "block",
-      "sortid": 145,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_inverted_slab",
@@ -1734,7 +1734,7 @@
     {
       "name": "YellowInvertedSlab",
       "type": "block",
-      "sortid": 146,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_inverted_slab",
@@ -1753,7 +1753,7 @@
     {
       "name": "ChromaBrickSlab",
       "type": "block",
-      "sortid": 157,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chroma_brick_slab",
@@ -1772,7 +1772,7 @@
     {
       "name": "BlueChromaBrickSlab",
       "type": "block",
-      "sortid": 158,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_chroma_brick_slab",
@@ -1791,7 +1791,7 @@
     {
       "name": "BrownChromaBrickSlab",
       "type": "block",
-      "sortid": 159,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_chroma_brick_slab",
@@ -1810,7 +1810,7 @@
     {
       "name": "CyanChromaBrickSlab",
       "type": "block",
-      "sortid": 160,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_chroma_brick_slab",
@@ -1829,7 +1829,7 @@
     {
       "name": "GrayChromaBrickSlab",
       "type": "block",
-      "sortid": 161,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_chroma_brick_slab",
@@ -1848,7 +1848,7 @@
     {
       "name": "GreenChromaBrickSlab",
       "type": "block",
-      "sortid": 162,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_chroma_brick_slab",
@@ -1867,7 +1867,7 @@
     {
       "name": "MagentaChromaBrickSlab",
       "type": "block",
-      "sortid": 163,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_chroma_brick_slab",
@@ -1886,7 +1886,7 @@
     {
       "name": "OrangeChromaBrickSlab",
       "type": "block",
-      "sortid": 164,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_chroma_brick_slab",
@@ -1905,7 +1905,7 @@
     {
       "name": "PinkChromaBrickSlab",
       "type": "block",
-      "sortid": 165,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_chroma_brick_slab",
@@ -1924,7 +1924,7 @@
     {
       "name": "PurpleChromaBrickSlab",
       "type": "block",
-      "sortid": 166,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_chroma_brick_slab",
@@ -1943,7 +1943,7 @@
     {
       "name": "RedChromaBrickSlab",
       "type": "block",
-      "sortid": 167,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_chroma_brick_slab",
@@ -1962,7 +1962,7 @@
     {
       "name": "YellowChromaBrickSlab",
       "type": "block",
-      "sortid": 168,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_chroma_brick_slab",
@@ -1981,7 +1981,7 @@
     {
       "name": "InvertedBrickSlab",
       "type": "block",
-      "sortid": 169,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "registry_name": "inverted_brick_slab",
@@ -2000,7 +2000,7 @@
     {
       "name": "BlueInvertedBrickSlab",
       "type": "block",
-      "sortid": 170,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_inverted_brick_slab",
@@ -2019,7 +2019,7 @@
     {
       "name": "BrownInvertedBrickSlab",
       "type": "block",
-      "sortid": 171,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_inverted_brick_slab",
@@ -2038,7 +2038,7 @@
     {
       "name": "CyanInvertedBrickSlab",
       "type": "block",
-      "sortid": 172,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_inverted_brick_slab",
@@ -2057,7 +2057,7 @@
     {
       "name": "GrayInvertedBrickSlab",
       "type": "block",
-      "sortid": 173,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_inverted_brick_slab",
@@ -2076,7 +2076,7 @@
     {
       "name": "GreenInvertedBrickSlab",
       "type": "block",
-      "sortid": 174,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_inverted_brick_slab",
@@ -2095,7 +2095,7 @@
     {
       "name": "MagentaInvertedBrickSlab",
       "type": "block",
-      "sortid": 175,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_inverted_brick_slab",
@@ -2114,7 +2114,7 @@
     {
       "name": "OrangeInvertedBrickSlab",
       "type": "block",
-      "sortid": 176,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_inverted_brick_slab",
@@ -2133,7 +2133,7 @@
     {
       "name": "PinkInvertedBrickSlab",
       "type": "block",
-      "sortid": 177,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_inverted_brick_slab",
@@ -2152,7 +2152,7 @@
     {
       "name": "PurpleInvertedBrickSlab",
       "type": "block",
-      "sortid": 178,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_inverted_brick_slab",
@@ -2171,7 +2171,7 @@
     {
       "name": "RedInvertedBrickSlab",
       "type": "block",
-      "sortid": 179,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_inverted_brick_slab",
@@ -2190,7 +2190,7 @@
     {
       "name": "YellowInvertedBrickSlab",
       "type": "block",
-      "sortid": 180,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_inverted_brick_slab",
@@ -3025,7 +3025,7 @@
     {
       "name": "SmallChromaBrickSlab",
       "type": "block",
-      "sortid": 181,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_chroma_brick_slab",
@@ -3044,7 +3044,7 @@
     {
       "name": "BlueSmallChromaBrickSlab",
       "type": "block",
-      "sortid": 182,
+      "sortid": 170,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_small_chroma_brick_slab",
@@ -3063,7 +3063,7 @@
     {
       "name": "BrownSmallChromaBrickSlab",
       "type": "block",
-      "sortid": 183,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_small_chroma_brick_slab",
@@ -3082,7 +3082,7 @@
     {
       "name": "CyanSmallChromaBrickSlab",
       "type": "block",
-      "sortid": 184,
+      "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_small_chroma_brick_slab",
@@ -3101,7 +3101,7 @@
     {
       "name": "GraySmallChromaBrickSlab",
       "type": "block",
-      "sortid": 185,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_small_chroma_brick_slab",
@@ -3120,7 +3120,7 @@
     {
       "name": "GreenSmallChromaBrickSlab",
       "type": "block",
-      "sortid": 186,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_small_chroma_brick_slab",
@@ -3139,7 +3139,7 @@
     {
       "name": "MagentaSmallChromaBrickSlab",
       "type": "block",
-      "sortid": 187,
+      "sortid": 175,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_small_chroma_brick_slab",
@@ -3158,7 +3158,7 @@
     {
       "name": "OrangeSmallChromaBrickSlab",
       "type": "block",
-      "sortid": 188,
+      "sortid": 176,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_small_chroma_brick_slab",
@@ -3177,7 +3177,7 @@
     {
       "name": "PinkSmallChromaBrickSlab",
       "type": "block",
-      "sortid": 189,
+      "sortid": 177,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_small_chroma_brick_slab",
@@ -3196,7 +3196,7 @@
     {
       "name": "PurpleSmallChromaBrickSlab",
       "type": "block",
-      "sortid": 190,
+      "sortid": 178,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_small_chroma_brick_slab",
@@ -3215,7 +3215,7 @@
     {
       "name": "RedSmallChromaBrickSlab",
       "type": "block",
-      "sortid": 191,
+      "sortid": 179,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_small_chroma_brick_slab",
@@ -3234,7 +3234,7 @@
     {
       "name": "YellowSmallChromaBrickSlab",
       "type": "block",
-      "sortid": 192,
+      "sortid": 180,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_small_chroma_brick_slab",
@@ -3253,7 +3253,7 @@
     {
       "name": "SmallInvertedBrickSlab",
       "type": "block",
-      "sortid": 97,
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "registry_name": "small_inverted_brick_slab",
@@ -3272,7 +3272,7 @@
     {
       "name": "BlueSmallInvertedBrickSlab",
       "type": "block",
-      "sortid": 98,
+      "sortid": 182,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_small_inverted_brick_slab",
@@ -3291,7 +3291,7 @@
     {
       "name": "BrownSmallInvertedBrickSlab",
       "type": "block",
-      "sortid": 99,
+      "sortid": 183,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_small_inverted_brick_slab",
@@ -3310,7 +3310,7 @@
     {
       "name": "CyanSmallInvertedBrickSlab",
       "type": "block",
-      "sortid": 100,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_small_inverted_brick_slab",
@@ -3329,7 +3329,7 @@
     {
       "name": "GraySmallInvertedBrickSlab",
       "type": "block",
-      "sortid": 101,
+      "sortid": 185,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_small_inverted_brick_slab",
@@ -3348,7 +3348,7 @@
     {
       "name": "GreenSmallInvertedBrickSlab",
       "type": "block",
-      "sortid": 102,
+      "sortid": 186,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_small_inverted_brick_slab",
@@ -3367,7 +3367,7 @@
     {
       "name": "MagentaSmallInvertedBrickSlab",
       "type": "block",
-      "sortid": 103,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_small_inverted_brick_slab",
@@ -3386,7 +3386,7 @@
     {
       "name": "OrangeSmallInvertedBrickSlab",
       "type": "block",
-      "sortid": 104,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_small_inverted_brick_slab",
@@ -3405,7 +3405,7 @@
     {
       "name": "PinkSmallInvertedBrickSlab",
       "type": "block",
-      "sortid": 105,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_small_inverted_brick_slab",
@@ -3424,7 +3424,7 @@
     {
       "name": "PurpleSmallInvertedBrickSlab",
       "type": "block",
-      "sortid": 106,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_small_inverted_brick_slab",
@@ -3443,7 +3443,7 @@
     {
       "name": "RedSmallInvertedBrickSlab",
       "type": "block",
-      "sortid": 107,
+      "sortid": 191,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_small_inverted_brick_slab",
@@ -3462,7 +3462,7 @@
     {
       "name": "YellowSmallInvertedBrickSlab",
       "type": "block",
-      "sortid": 108,
+      "sortid": 192,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_small_inverted_brick_slab",
@@ -3481,7 +3481,7 @@
     {
       "name": "CutChromaStairs",
       "type": "block",
-      "sortid": 193,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cut_chroma_stairs",
@@ -3500,7 +3500,7 @@
     {
       "name": "BlueCutChromaStairs",
       "type": "block",
-      "sortid": 194,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_cut_chroma_stairs",
@@ -3519,7 +3519,7 @@
     {
       "name": "BrownCutChromaStairs",
       "type": "block",
-      "sortid": 195,
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_cut_chroma_stairs",
@@ -3538,7 +3538,7 @@
     {
       "name": "CyanCutChromaStairs",
       "type": "block",
-      "sortid": 196,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_cut_chroma_stairs",
@@ -3557,7 +3557,7 @@
     {
       "name": "GrayCutChromaStairs",
       "type": "block",
-      "sortid": 197,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_cut_chroma_stairs",
@@ -3576,7 +3576,7 @@
     {
       "name": "GreenCutChromaStairs",
       "type": "block",
-      "sortid": 198,
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_cut_chroma_stairs",
@@ -3595,7 +3595,7 @@
     {
       "name": "MagentaCutChromaStairs",
       "type": "block",
-      "sortid": 199,
+      "sortid": 223,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_cut_chroma_stairs",
@@ -3614,7 +3614,7 @@
     {
       "name": "OrangeCutChromaStairs",
       "type": "block",
-      "sortid": 200,
+      "sortid": 224,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_cut_chroma_stairs",
@@ -3633,7 +3633,7 @@
     {
       "name": "PinkCutChromaStairs",
       "type": "block",
-      "sortid": 201,
+      "sortid": 225,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_cut_chroma_stairs",
@@ -3652,7 +3652,7 @@
     {
       "name": "PurpleCutChromaStairs",
       "type": "block",
-      "sortid": 202,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_cut_chroma_stairs",
@@ -3671,7 +3671,7 @@
     {
       "name": "RedCutChromaStairs",
       "type": "block",
-      "sortid": 203,
+      "sortid": 227,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_cut_chroma_stairs",
@@ -3690,7 +3690,7 @@
     {
       "name": "YellowCutChromaStairs",
       "type": "block",
-      "sortid": 204,
+      "sortid": 228,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_cut_chroma_stairs",
@@ -3709,7 +3709,7 @@
     {
       "name": "ChromaBrickStairs",
       "type": "block",
-      "sortid": 205,
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chroma_brick_stairs",
@@ -3728,7 +3728,7 @@
     {
       "name": "BlueChromaBrickStairs",
       "type": "block",
-      "sortid": 206,
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_chroma_brick_stairs",
@@ -3747,7 +3747,7 @@
     {
       "name": "BrownChromaBrickStairs",
       "type": "block",
-      "sortid": 207,
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_chroma_brick_stairs",
@@ -3766,7 +3766,7 @@
     {
       "name": "CyanChromaBrickStairs",
       "type": "block",
-      "sortid": 208,
+      "sortid": 244,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_chroma_brick_stairs",
@@ -3785,7 +3785,7 @@
     {
       "name": "GrayChromaBrickStairs",
       "type": "block",
-      "sortid": 209,
+      "sortid": 245,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_chroma_brick_stairs",
@@ -3804,7 +3804,7 @@
     {
       "name": "GreenChromaBrickStairs",
       "type": "block",
-      "sortid": 210,
+      "sortid": 246,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_chroma_brick_stairs",
@@ -3823,7 +3823,7 @@
     {
       "name": "MagentaChromaBrickStairs",
       "type": "block",
-      "sortid": 211,
+      "sortid": 247,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_chroma_brick_stairs",
@@ -3842,7 +3842,7 @@
     {
       "name": "OrangeChromaBrickStairs",
       "type": "block",
-      "sortid": 212,
+      "sortid": 248,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_chroma_brick_stairs",
@@ -3861,7 +3861,7 @@
     {
       "name": "PinkChromaBrickStairs",
       "type": "block",
-      "sortid": 213,
+      "sortid": 249,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_chroma_brick_stairs",
@@ -3880,7 +3880,7 @@
     {
       "name": "PurpleChromaBrickStairs",
       "type": "block",
-      "sortid": 214,
+      "sortid": 250,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_chroma_brick_stairs",
@@ -3899,7 +3899,7 @@
     {
       "name": "RedChromaBrickStairs",
       "type": "block",
-      "sortid": 215,
+      "sortid": 251,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_chroma_brick_stairs",
@@ -3918,7 +3918,7 @@
     {
       "name": "YellowChromaBrickStairs",
       "type": "block",
-      "sortid": 216,
+      "sortid": 252,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_chroma_brick_stairs",
@@ -3937,7 +3937,7 @@
     {
       "name": "InvertedBrickStairs",
       "type": "block",
-      "sortid": 217,
+      "sortid": 253,
       "compiles": true,
       "locked_code": false,
       "registry_name": "inverted_brick_stairs",
@@ -3956,7 +3956,7 @@
     {
       "name": "BlueInvertedBrickStairs",
       "type": "block",
-      "sortid": 218,
+      "sortid": 254,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_inverted_brick_stairs",
@@ -3975,7 +3975,7 @@
     {
       "name": "BrownInvertedBrickStairs",
       "type": "block",
-      "sortid": 219,
+      "sortid": 255,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_inverted_brick_stairs",
@@ -3994,7 +3994,7 @@
     {
       "name": "CyanInvertedBrickStairs",
       "type": "block",
-      "sortid": 220,
+      "sortid": 256,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_inverted_brick_stairs",
@@ -4013,7 +4013,7 @@
     {
       "name": "GrayInvertedBrickStairs",
       "type": "block",
-      "sortid": 221,
+      "sortid": 257,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_inverted_brick_stairs",
@@ -4032,7 +4032,7 @@
     {
       "name": "GreenInvertedBrickStairs",
       "type": "block",
-      "sortid": 222,
+      "sortid": 258,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_inverted_brick_stairs",
@@ -4051,7 +4051,7 @@
     {
       "name": "MagentaInvertedBrickStairs",
       "type": "block",
-      "sortid": 223,
+      "sortid": 259,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_inverted_brick_stairs",
@@ -4070,7 +4070,7 @@
     {
       "name": "OrangeInvertedBrickStairs",
       "type": "block",
-      "sortid": 224,
+      "sortid": 260,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_inverted_brick_stairs",
@@ -4089,7 +4089,7 @@
     {
       "name": "PinkInvertedBrickStairs",
       "type": "block",
-      "sortid": 225,
+      "sortid": 261,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_inverted_brick_stairs",
@@ -4108,7 +4108,7 @@
     {
       "name": "PurpleInvertedBrickStairs",
       "type": "block",
-      "sortid": 226,
+      "sortid": 262,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_inverted_brick_stairs",
@@ -4127,7 +4127,7 @@
     {
       "name": "RedInvertedBrickStairs",
       "type": "block",
-      "sortid": 227,
+      "sortid": 263,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_inverted_brick_stairs",
@@ -4146,7 +4146,7 @@
     {
       "name": "YellowInvertedBrickStairs",
       "type": "block",
-      "sortid": 228,
+      "sortid": 264,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_inverted_brick_stairs",
@@ -4165,7 +4165,7 @@
     {
       "name": "ChromaStairs",
       "type": "block",
-      "sortid": 231,
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chroma_stairs",
@@ -4184,7 +4184,7 @@
     {
       "name": "BlueChromaStairs",
       "type": "block",
-      "sortid": 232,
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_chroma_stairs",
@@ -4203,7 +4203,7 @@
     {
       "name": "BrownChromaStairs",
       "type": "block",
-      "sortid": 233,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brown_chroma_stairs",
@@ -4222,7 +4222,7 @@
     {
       "name": "CyanChromaStairs",
       "type": "block",
-      "sortid": 234,
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyan_chroma_stairs",
@@ -4241,7 +4241,7 @@
     {
       "name": "GrayChromaStairs",
       "type": "block",
-      "sortid": 235,
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gray_chroma_stairs",
@@ -4260,7 +4260,7 @@
     {
       "name": "GreenChromaStairs",
       "type": "block",
-      "sortid": 236,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "registry_name": "green_chroma_stairs",
@@ -4279,7 +4279,7 @@
     {
       "name": "MagentaChromaStairs",
       "type": "block",
-      "sortid": 237,
+      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "registry_name": "magenta_chroma_stairs",
@@ -4298,7 +4298,7 @@
     {
       "name": "OrangeChromaStairs",
       "type": "block",
-      "sortid": 238,
+      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orange_chroma_stairs",
@@ -4317,7 +4317,7 @@
     {
       "name": "PinkChromaStairs",
       "type": "block",
-      "sortid": 239,
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pink_chroma_stairs",
@@ -4336,7 +4336,7 @@
     {
       "name": "PurpleChromaStairs",
       "type": "block",
-      "sortid": 240,
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "registry_name": "purple_chroma_stairs",
@@ -4355,7 +4355,7 @@
     {
       "name": "RedChromaStairs",
       "type": "block",
-      "sortid": 241,
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "registry_name": "red_chroma_stairs",
@@ -4374,7 +4374,7 @@
     {
       "name": "YellowChromaStairs",
       "type": "block",
-      "sortid": 242,
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "registry_name": "yellow_chroma_stairs",
@@ -4393,7 +4393,7 @@
     {
       "name": "InvertedStairs",
       "type": "block",
-      "sortid": 243,
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "registry_name": "inverted_stairs",
@@ -4412,7 +4412,7 @@
     {
       "name": "BlueInvertedStairs",
       "type": "block",
-      "sortid": 244,
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "registry_name": "blue_inverted_stairs",
@@ -4427,6 +4427,880 @@
         ]
       },
       "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "BrownInvertedStairs",
+      "type": "block",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/blockstates/brown_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/brown_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/brown_inverted_stairs_outer.json",
+          "src/main/java/net/chromatic/mod/block/BrownInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/brown_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/brown_inverted_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "CyanInvertedStairs",
+      "type": "block",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/item/cyan_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/cyan_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/cyan_inverted_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/cyan_inverted_stairs_inner.json",
+          "src/main/java/net/chromatic/mod/block/CyanInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/cyan_inverted_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "GrayInvertedStairs",
+      "type": "block",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/gray_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/item/gray_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/gray_inverted_stairs_outer.json",
+          "src/main/resources/assets/chromatic/blockstates/gray_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/gray_inverted_stairs.json",
+          "src/main/java/net/chromatic/mod/block/GrayInvertedStairsBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "GreenInvertedStairs",
+      "type": "block",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/blockstates/green_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/green_inverted_stairs.json",
+          "src/main/java/net/chromatic/mod/block/GreenInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/green_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/green_inverted_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/green_inverted_stairs_inner.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "MagentaInvertedStairs",
+      "type": "block",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/magenta_inverted_stairs_outer.json",
+          "src/main/java/net/chromatic/mod/block/MagentaInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/magenta_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/item/magenta_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/magenta_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/magenta_inverted_stairs_inner.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "OrangeInvertedStairs",
+      "type": "block",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/item/orange_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/orange_inverted_stairs_outer.json",
+          "src/main/resources/assets/chromatic/blockstates/orange_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/orange_inverted_stairs.json",
+          "src/main/java/net/chromatic/mod/block/OrangeInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/orange_inverted_stairs_inner.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "PinkInvertedStairs",
+      "type": "block",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/pink_inverted_stairs_inner.json",
+          "src/main/java/net/chromatic/mod/block/PinkInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/pink_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/pink_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/pink_inverted_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/item/pink_inverted_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "PurpleInvertedStairs",
+      "type": "block",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/item/purple_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/purple_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/purple_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/blockstates/purple_inverted_stairs.json",
+          "src/main/java/net/chromatic/mod/block/PurpleInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/purple_inverted_stairs_outer.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "RedInvertedStairs",
+      "type": "block",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/chromatic/mod/block/RedInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/red_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/red_inverted_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/item/red_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/red_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/red_inverted_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "YellowInvertedStairs",
+      "type": "block",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/item/yellow_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/yellow_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/yellow_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/yellow_inverted_stairs.json",
+          "src/main/java/net/chromatic/mod/block/YellowInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/yellow_inverted_stairs_outer.json"
+        ]
+      },
+      "path": "~/Inverted Tiles"
+    },
+    {
+      "name": "SmallChromaBrickStairs",
+      "type": "block",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_chroma_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/small_chroma_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/small_chroma_brick_stairs.json",
+          "src/main/java/net/chromatic/mod/block/SmallChromaBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/blockstates/small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/item/small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/small_chroma_brick_stairs_inner.json"
+        ]
+      },
+      "path": "~/Chroma Bricks/Small Chroma Bricks"
+    },
+    {
+      "name": "BlueSmallChromaBrickStairs",
+      "type": "block",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_small_chroma_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/blue_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/blue_small_chroma_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/blue_small_chroma_brick_stairs_inner.json",
+          "src/main/resources/assets/chromatic/blockstates/blue_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/item/blue_small_chroma_brick_stairs.json",
+          "src/main/java/net/chromatic/mod/block/BlueSmallChromaBrickStairsBlock.java"
+        ]
+      },
+      "path": "~/Chroma Bricks/Small Chroma Bricks"
+    },
+    {
+      "name": "BrownSmallChromaBrickStairs",
+      "type": "block",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_small_chroma_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/brown_small_chroma_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/brown_small_chroma_brick_stairs.json",
+          "src/main/java/net/chromatic/mod/block/BrownSmallChromaBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/blockstates/brown_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/item/brown_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/brown_small_chroma_brick_stairs_inner.json"
+        ]
+      },
+      "path": "~/Chroma Bricks/Small Chroma Bricks"
+    },
+    {
+      "name": "CyanSmallChromaBrickStairs",
+      "type": "block",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_small_chroma_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/chromatic/mod/block/CyanSmallChromaBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/cyan_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/cyan_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/cyan_small_chroma_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/cyan_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/cyan_small_chroma_brick_stairs_inner.json"
+        ]
+      },
+      "path": "~/Chroma Bricks/Small Chroma Bricks"
+    },
+    {
+      "name": "GraySmallChromaBrickStairs",
+      "type": "block",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_small_chroma_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/gray_small_chroma_brick_stairs.json",
+          "src/main/java/net/chromatic/mod/block/GraySmallChromaBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/gray_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/gray_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/gray_small_chroma_brick_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/gray_small_chroma_brick_stairs_outer.json"
+        ]
+      },
+      "path": "~/Chroma Bricks/Small Chroma Bricks"
+    },
+    {
+      "name": "GreenSmallChromaBrickStairs",
+      "type": "block",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_small_chroma_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/blockstates/green_small_chroma_brick_stairs.json",
+          "src/main/java/net/chromatic/mod/block/GreenSmallChromaBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/green_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/green_small_chroma_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/green_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/green_small_chroma_brick_stairs_inner.json"
+        ]
+      },
+      "path": "~/Chroma Bricks/Small Chroma Bricks"
+    },
+    {
+      "name": "MagentaSmallChromaBrickStairs",
+      "type": "block",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_small_chroma_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/item/magenta_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/magenta_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/magenta_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/magenta_small_chroma_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/magenta_small_chroma_brick_stairs_inner.json",
+          "src/main/java/net/chromatic/mod/block/MagentaSmallChromaBrickStairsBlock.java"
+        ]
+      },
+      "path": "~/Chroma Bricks/Small Chroma Bricks"
+    },
+    {
+      "name": "OrangeSmallChromaBrickStairs",
+      "type": "block",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_small_chroma_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/orange_small_chroma_brick_stairs.json",
+          "src/main/java/net/chromatic/mod/block/OrangeSmallChromaBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/blockstates/orange_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/orange_small_chroma_brick_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/item/orange_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/orange_small_chroma_brick_stairs_outer.json"
+        ]
+      },
+      "path": "~/Chroma Bricks/Small Chroma Bricks"
+    },
+    {
+      "name": "PinkSmallChromaBrickStairs",
+      "type": "block",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_small_chroma_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/chromatic/mod/block/PinkSmallChromaBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/pink_small_chroma_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/item/pink_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/pink_small_chroma_brick_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/pink_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/pink_small_chroma_brick_stairs.json"
+        ]
+      },
+      "path": "~/Chroma Bricks/Small Chroma Bricks"
+    },
+    {
+      "name": "PurpleSmallChromaBrickStairs",
+      "type": "block",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_small_chroma_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/blockstates/purple_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/purple_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/purple_small_chroma_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/purple_small_chroma_brick_stairs_inner.json",
+          "src/main/java/net/chromatic/mod/block/PurpleSmallChromaBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/purple_small_chroma_brick_stairs.json"
+        ]
+      },
+      "path": "~/Chroma Bricks/Small Chroma Bricks"
+    },
+    {
+      "name": "RedSmallChromaBrickStairs",
+      "type": "block",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_small_chroma_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/red_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/red_small_chroma_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/red_small_chroma_brick_stairs_inner.json",
+          "src/main/java/net/chromatic/mod/block/RedSmallChromaBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/blockstates/red_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/item/red_small_chroma_brick_stairs.json"
+        ]
+      },
+      "path": "~/Chroma Bricks/Small Chroma Bricks"
+    },
+    {
+      "name": "YellowSmallChromaBrickStairs",
+      "type": "block",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_small_chroma_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/yellow_small_chroma_brick_stairs_inner.json",
+          "src/main/java/net/chromatic/mod/block/YellowSmallChromaBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/yellow_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/yellow_small_chroma_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/yellow_small_chroma_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/blockstates/yellow_small_chroma_brick_stairs.json"
+        ]
+      },
+      "path": "~/Chroma Bricks/Small Chroma Bricks"
+    },
+    {
+      "name": "SmallInvertedBrickStairs",
+      "type": "block",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_inverted_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/chromatic/mod/block/SmallInvertedBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/small_inverted_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/item/small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/small_inverted_brick_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/small_inverted_brick_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Bricks/Small Inverted Bricks"
+    },
+    {
+      "name": "BlueSmallInvertedBrickStairs",
+      "type": "block",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_small_inverted_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/chromatic/mod/block/BlueSmallInvertedBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/blue_small_inverted_brick_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/item/blue_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/blue_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/blue_small_inverted_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/blue_small_inverted_brick_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Bricks/Small Inverted Bricks"
+    },
+    {
+      "name": "BrownSmallInvertedBrickStairs",
+      "type": "block",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_small_inverted_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/chromatic/mod/block/BrownSmallInvertedBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/brown_small_inverted_brick_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/brown_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/brown_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/item/brown_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/brown_small_inverted_brick_stairs_outer.json"
+        ]
+      },
+      "path": "~/Inverted Bricks/Small Inverted Bricks"
+    },
+    {
+      "name": "CyanSmallInvertedBrickStairs",
+      "type": "block",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_small_inverted_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/cyan_small_inverted_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/blockstates/cyan_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/item/cyan_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/cyan_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/cyan_small_inverted_brick_stairs_inner.json",
+          "src/main/java/net/chromatic/mod/block/CyanSmallInvertedBrickStairsBlock.java"
+        ]
+      },
+      "path": "~/Inverted Bricks/Small Inverted Bricks"
+    },
+    {
+      "name": "GraySmallInvertedBrickStairs",
+      "type": "block",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_small_inverted_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/gray_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/gray_small_inverted_brick_stairs.json",
+          "src/main/java/net/chromatic/mod/block/GraySmallInvertedBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/gray_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/gray_small_inverted_brick_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/gray_small_inverted_brick_stairs_outer.json"
+        ]
+      },
+      "path": "~/Inverted Bricks/Small Inverted Bricks"
+    },
+    {
+      "name": "GreenSmallInvertedBrickStairs",
+      "type": "block",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_small_inverted_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/green_small_inverted_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/green_small_inverted_brick_stairs.json",
+          "src/main/java/net/chromatic/mod/block/GreenSmallInvertedBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/green_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/green_small_inverted_brick_stairs_inner.json",
+          "src/main/resources/assets/chromatic/blockstates/green_small_inverted_brick_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Bricks/Small Inverted Bricks"
+    },
+    {
+      "name": "MagentaSmallInvertedBrickStairs",
+      "type": "block",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_small_inverted_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/blockstates/magenta_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/magenta_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/magenta_small_inverted_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/magenta_small_inverted_brick_stairs_inner.json",
+          "src/main/java/net/chromatic/mod/block/MagentaSmallInvertedBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/magenta_small_inverted_brick_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Bricks/Small Inverted Bricks"
+    },
+    {
+      "name": "OrangeSmallInvertedBrickStairs",
+      "type": "block",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_small_inverted_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/orange_small_inverted_brick_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/item/orange_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/orange_small_inverted_brick_stairs.json",
+          "src/main/java/net/chromatic/mod/block/OrangeSmallInvertedBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/orange_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/orange_small_inverted_brick_stairs_outer.json"
+        ]
+      },
+      "path": "~/Inverted Bricks/Small Inverted Bricks"
+    },
+    {
+      "name": "PinkSmallInvertedBrickStairs",
+      "type": "block",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_small_inverted_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/pink_small_inverted_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/item/pink_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/pink_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/pink_small_inverted_brick_stairs.json",
+          "src/main/java/net/chromatic/mod/block/PinkSmallInvertedBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/pink_small_inverted_brick_stairs_inner.json"
+        ]
+      },
+      "path": "~/Inverted Bricks/Small Inverted Bricks"
+    },
+    {
+      "name": "PurpleSmallInvertedBrickStairs",
+      "type": "block",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_small_inverted_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/item/purple_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/purple_small_inverted_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/purple_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/purple_small_inverted_brick_stairs_inner.json",
+          "src/main/java/net/chromatic/mod/block/PurpleSmallInvertedBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/blockstates/purple_small_inverted_brick_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Bricks/Small Inverted Bricks"
+    },
+    {
+      "name": "RedSmallInvertedBrickStairs",
+      "type": "block",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_small_inverted_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/red_small_inverted_brick_stairs.json",
+          "src/main/java/net/chromatic/mod/block/RedSmallInvertedBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/red_small_inverted_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/item/red_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/red_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/red_small_inverted_brick_stairs_inner.json"
+        ]
+      },
+      "path": "~/Inverted Bricks/Small Inverted Bricks"
+    },
+    {
+      "name": "YellowSmallInvertedBrickStairs",
+      "type": "block",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_small_inverted_brick_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/item/yellow_small_inverted_brick_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/yellow_small_inverted_brick_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/yellow_small_inverted_brick_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/yellow_small_inverted_brick_stairs.json",
+          "src/main/java/net/chromatic/mod/block/YellowSmallInvertedBrickStairsBlock.java",
+          "src/main/resources/assets/chromatic/blockstates/yellow_small_inverted_brick_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Bricks/Small Inverted Bricks"
+    },
+    {
+      "name": "CutInvertedStairs",
+      "type": "block",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cut_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/cut_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/cut_inverted_stairs_outer.json",
+          "src/main/resources/assets/chromatic/blockstates/cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/cut_inverted_stairs.json",
+          "src/main/java/net/chromatic/mod/block/CutInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/cut_inverted_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "BlueCutInvertedStairs",
+      "type": "block",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue_cut_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/blue_cut_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/blue_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/blue_cut_inverted_stairs_outer.json",
+          "src/main/java/net/chromatic/mod/block/BlueCutInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/blue_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/blue_cut_inverted_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "BrownCutInvertedStairs",
+      "type": "block",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brown_cut_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/blockstates/brown_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/brown_cut_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/brown_cut_inverted_stairs.json",
+          "src/main/java/net/chromatic/mod/block/BrownCutInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/brown_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/brown_cut_inverted_stairs_outer.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "CyanCutInvertedStairs",
+      "type": "block",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyan_cut_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/blockstates/cyan_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/cyan_cut_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/cyan_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/item/cyan_cut_inverted_stairs.json",
+          "src/main/java/net/chromatic/mod/block/CyanCutInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/cyan_cut_inverted_stairs_outer.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "GrayCutInvertedStairs",
+      "type": "block",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gray_cut_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/gray_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/gray_cut_inverted_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/item/gray_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/gray_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/gray_cut_inverted_stairs_inner.json",
+          "src/main/java/net/chromatic/mod/block/GrayCutInvertedStairsBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "GreenCutInvertedStairs",
+      "type": "block",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "green_cut_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/item/green_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/green_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/green_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/green_cut_inverted_stairs_outer.json",
+          "src/main/java/net/chromatic/mod/block/GreenCutInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/green_cut_inverted_stairs_inner.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "MagentaCutInvertedStairs",
+      "type": "block",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magenta_cut_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/blockstates/magenta_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/magenta_cut_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/item/magenta_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/magenta_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/magenta_cut_inverted_stairs_outer.json",
+          "src/main/java/net/chromatic/mod/block/MagentaCutInvertedStairsBlock.java"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "OrangeCutInvertedStairs",
+      "type": "block",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orange_cut_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/orange_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/orange_cut_inverted_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/orange_cut_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/blockstates/orange_cut_inverted_stairs.json",
+          "src/main/java/net/chromatic/mod/block/OrangeCutInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/orange_cut_inverted_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "PinkCutInvertedStairs",
+      "type": "block",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pink_cut_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/chromatic/mod/block/PinkCutInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/item/pink_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/pink_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/pink_cut_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/block/pink_cut_inverted_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/pink_cut_inverted_stairs.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "PurpleCutInvertedStairs",
+      "type": "block",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_cut_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/purple_cut_inverted_stairs.json",
+          "src/main/java/net/chromatic/mod/block/PurpleCutInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/purple_cut_inverted_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/item/purple_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/purple_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/purple_cut_inverted_stairs_inner.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "RedCutInvertedStairs",
+      "type": "block",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_cut_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/block/red_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/red_cut_inverted_stairs_inner.json",
+          "src/main/resources/assets/chromatic/models/item/red_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/red_cut_inverted_stairs.json",
+          "src/main/java/net/chromatic/mod/block/RedCutInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/red_cut_inverted_stairs_outer.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
+    },
+    {
+      "name": "YellowCutInvertedStairs",
+      "type": "block",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yellow_cut_inverted_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/chromatic/models/item/yellow_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/blockstates/yellow_cut_inverted_stairs.json",
+          "src/main/resources/assets/chromatic/models/block/yellow_cut_inverted_stairs_outer.json",
+          "src/main/resources/assets/chromatic/models/block/yellow_cut_inverted_stairs.json",
+          "src/main/java/net/chromatic/mod/block/YellowCutInvertedStairsBlock.java",
+          "src/main/resources/assets/chromatic/models/block/yellow_cut_inverted_stairs_inner.json"
+        ]
+      },
+      "path": "~/Inverted Tiles/Cut Inverted"
     }
   ],
   "variable_elements": [],
@@ -4435,18 +5309,21 @@
     "en_us": {
       "block.chromatic.magenta_inverted_brick_slab": "Magenta Inverted Brick Slab",
       "block.chromatic.yellow_small_chroma_brick_slab": "Yellow Small Chrome Brick Slab",
+      "block.chromatic.gray_small_chroma_brick_stairs": "Gray Small Chrome Brick Stairs",
       "block.chromatic.inverted_bricks": "Inverted Bricks",
       "block.cromamod.small_inverted_brick_slab": "Small Inverted Brick Slab",
       "block.cromamod.cut_chroma_tile": "Cut Chroma Tile",
       "block.chromatic.green_inverted_brick_stairs": "Green Inverted Brick Stairs",
       "block.cromamod.red_cut_inverted_tile": "Red Cut Inverted Tile",
       "block.chromatic.pink_chroma_tile": "Pink Chroma Tile",
+      "block.chromatic.purple_inverted_stairs": "Purple Inverted Stairs",
       "block.chromatic.pink_chroma_bricks": "Pink Chroma Bricks",
       "block.chromatic.gray_chroma_tile": "Gray Chroma Tile",
       "block.chromatic.cyan_chroma_brick_slab": "Cyan Chroma Brick Slab",
       "block.chromatic.blue_small_chroma_bricks": "Blue Small Chroma Bricks",
       "itemGroup.tabchromatic_decor_tab": "Chromatic Decor",
       "block.cromamod.blue_small_inverted_brick_slab": "Blue Small Inverted Brick Slab",
+      "block.chromatic.brown_small_chroma_brick_stairs": "Brown Small Chroma Brick Stairs",
       "block.cromamod.gray_cut_inverted_tile": "Gray Cut Inverted Tile",
       "block.chromatic.brown_inverted_bricks": "Brown Inverted Bricks",
       "block.chromatic.blue_small_inverted_bricks": "Blue Small Inverted Bricks",
@@ -4459,6 +5336,7 @@
       "block.chromatic.brown_small_inverted_brick_slab": "Brown Small Inverted Brick Slab",
       "block.cromamod.gray_inverted_bricks": "Gray Inverted Bricks",
       "block.cromamod.cyan_cut_chroma_tile": "Cyan Cut Chroma Tile",
+      "block.chromatic.yellow_cut_inverted_stairs": "Yellow Cut Inverted Stairs",
       "block.chromatic.chroma_brick_stairs": "Chroma Brick Stairs",
       "block.chromatic.green_inverted_bricks": "Green Inverted Bricks",
       "block.cromamod.magenta_inverted_bricks": "Magenta Inverted Bricks",
@@ -4468,8 +5346,10 @@
       "block.chromatic.pink_small_chroma_bricks": "Pink Small Chroma Bricks",
       "block.chromatic.red_inverted_bricks": "Red Inverted Bricks",
       "block.chromatic.cyan_cut_chroma_tile": "Cyan Cut Chroma Tile",
+      "block.chromatic.pink_cut_inverted_stairs": "Pink Cut Inverted Stairs",
       "block.chromatic.pink_inverted_slab": "Pink Inverted Slab",
       "block.chromatic.cyan_inverted_brick_slab": "Cyan Inverted Brick Slab",
+      "block.chromatic.gray_inverted_stairs": "Gray Inverted Stairs",
       "block.cromamod.red_chroma_slab": "Red Chroma Slab",
       "block.cromamod.magenta_inverted_brick_stairs": "Magenta Inverted Brick Stairs",
       "block.cromamod.yellow_cut_inverted_slab": "Yellow Cut Inverted Slab",
@@ -4482,6 +5362,7 @@
       "block.cromamod.brown_cut_inverted_tile": "Brown Cut Inverted Tile",
       "block.chromatic.green_small_inverted_bricks": "Green Small Inverted Bricks",
       "block.chromatic.cut_inverted_tile": "Cut Inverted Tile",
+      "block.chromatic.small_chroma_brick_stairs": "Small Chroma Brick Stairs",
       "block.cromamod.yellow_cut_chroma_stairs": "Yellow Cut Chroma Stairs",
       "block.cromamod.cyan_chroma_brick_slab": "Cyan Chroma Brick Slab",
       "block.chromatic.purple_cut_chroma_stairs": "Purple Cut Chroma Stairs",
@@ -4490,6 +5371,7 @@
       "block.cromamod.brown_inverted_brick_stairs": "Brown Inverted Brick Stairs",
       "block.chromatic.pink_small_chroma_brick_slab": "Pink Small Chrome Brick Slab",
       "block.cromamod.purple_small_inverted_brick_slab": "Purple Small Inverted Brick Slab",
+      "block.chromatic.magenta_small_chroma_brick_stairs": "Magenta Small Chrome Brick Stairs",
       "block.chromatic.red_cut_chroma_slab": "Red Cut Chroma Slab",
       "block.cromamod.blue_chroma_slab": "Blue Chroma Slab",
       "block.cromamod.purple_chroma_brick_stairs": "Purple Chroma Brick Stairs",
@@ -4498,8 +5380,10 @@
       "block.cromamod.orange_chroma_bricks": "Orange Chroma Bricks",
       "block.cromamod.magenta_small_inverted_bricks": "Magenta Small Inverted Bricks",
       "block.cromamod.pink_cut_inverted_slab": "Pink Cut Inverted Slab",
+      "block.chromatic.brown_cut_inverted_stairs": "Brown Cut Inverted Stairs",
       "block.chromatic.blue_small_inverted_brick_slab": "Blue Small Inverted Brick Slab",
       "block.chromatic.inverted_brick_slab": "Inverted Brick Slab",
+      "block.chromatic.blue_small_chroma_brick_stairs": "Blue Small Chroma Brick Stairs",
       "block.chromatic.green_inverted_slab": "Green Inverted Slab",
       "block.cromamod.orange_chroma_tile": "Orange Chroma Tile",
       "block.cromamod.purple_small_chroma_bricks": "Purple Small Chroma Bricks",
@@ -4514,6 +5398,7 @@
       "block.chromatic.red_inverted_brick_stairs": "Red Inverted Brick Stairs",
       "block.cromamod.blue_cut_inverted_slab": "Blue Cut Inverted Slab",
       "block.cromamod.orange_inverted_slab": "Orange Inverted Slab",
+      "block.chromatic.red_cut_inverted_stairs": "Red Cut Inverted Stairs",
       "block.chromatic.pink_cut_chroma_slab": "Pink Cut Chroma Slab",
       "block.cromamod.blue_inverted_tile": "Blue Inverted Tile",
       "block.chromatic.magenta_small_inverted_brick_slab": "Magenta Small Inverted Brick Slab",
@@ -4544,7 +5429,9 @@
       "block.chromatic.magenta_chroma_brick_stairs": "Magenta Chroma Brick Stairs",
       "block.cromamod.green_cut_chroma_slab": "Green Cut Chroma Slab",
       "block.cromamod.purple_cut_inverted_tile": "Purple Cut Inverted Tile",
+      "block.chromatic.cyan_inverted_stairs": "Cyan Inverted Stairs",
       "block.cromamod.cut_inverted_tile": "Cut Inverted Tile",
+      "block.chromatic.yellow_small_chroma_brick_stairs": "Yellow Small Chrome Brick Stairs",
       "block.cromamod.purple_small_inverted_bricks": "Purple Small Inverted Bricks",
       "block.chromatic.pink_cut_inverted_slab": "Pink Cut Inverted Slab",
       "block.chromatic.magenta_chroma_brick_slab": "Magenta Chroma Brick Slab",
@@ -4557,6 +5444,7 @@
       "block.cromamod.magenta_small_chroma_bricks": "Magenta Small Chroma Bricks",
       "block.cromamod.magenta_cut_chroma_stairs": "Magenta Cut Chroma Stairs",
       "block.chromatic.cyan_chroma_slab": "Cyan Chroma Slab",
+      "block.chromatic.green_small_chroma_brick_stairs": "Green Small Chrome Brick Stairs",
       "block.chromatic.magenta_small_chroma_bricks": "Magenta Small Chroma Bricks",
       "block.cromamod.cyan_cut_chroma_stairs": "Cyan Cut Chroma Stairs",
       "block.cromamod.pink_inverted_brick_stairs": "Pink Inverted Brick Stairs",
@@ -4576,6 +5464,7 @@
       "block.chromatic.brown_cut_chroma_slab": "Brown Cut Chroma Slab",
       "block.chromatic.orange_cut_chroma_slab": "Orange Cut Chroma Slab",
       "block.cromamod.yellow_chroma_brick_slab": "Yellow Chroma Brick Slab",
+      "block.chromatic.magenta_small_inverted_brick_stairs": "Magenta Small Inverted Brick Stairs",
       "block.cromamod.purple_inverted_slab": "Purple Inverted Slab",
       "block.cromamod.chroma_brick_slab": "Chroma Brick Slab",
       "block.cromamod.yellow_inverted_brick_stairs": "Yellow Inverted Brick Stairs",
@@ -4613,11 +5502,13 @@
       "block.chromatic.pink_inverted_bricks": "Pink Inverted Bricks",
       "block.cromamod.orange_small_inverted_brick_slab": "Orange Small Inverted Brick Slab",
       "block.cromamod.cyan_inverted_slab": "Cyan Inverted Slab",
+      "block.chromatic.blue_small_inverted_brick_stairs": "Blue Small Inverted Brick Stairs",
       "block.cromamod.orange_inverted_brick_slab": "Orange Inverted Brick Slab",
       "block.chromatic.brown_small_inverted_bricks": "Brown Small Inverted Bricks",
       "block.cromamod.green_small_inverted_brick_slab": "Green Small Inverted Brick Slab",
       "block.cromamod.purple_inverted_brick_stairs": "Purple Inverted Brick Stairs",
       "block.cromamod.blue_chroma_brick_slab": "Blue Chroma Brick Slab",
+      "block.chromatic.cyan_cut_inverted_stairs": "Cyan Cut Inverted Stairs",
       "block.cromamod.blue_chroma_brick_stairs": "Blue Chroma Brick Stairs",
       "block.cromamod.brown_small_inverted_brick_slab": "Brown Small Inverted Brick Slab",
       "block.cromamod.pink_small_chroma_brick_slab": "Pink Small Chrome Brick Slab",
@@ -4627,20 +5518,26 @@
       "block.chromatic.cyan_inverted_slab": "Cyan Inverted Slab",
       "block.cromamod.purple_cut_chroma_tile": "Purple Cut Chroma Tile",
       "block.chromatic.blue_cut_chroma_slab": "Blue Cut Chroma Slab",
+      "block.chromatic.green_inverted_stairs": "Green Inverted Stairs",
       "block.chromatic.blue_cut_chroma_stairs": "Blue Cut Chroma Stairs",
       "block.cromamod.inverted_brick_stairs": "Inverted Brick Stairs",
       "block.cromamod.chroma_brick_stairs": "Chroma Brick Stairs",
       "block.chromatic.red_cut_inverted_slab": "Red Cut Inverted Slab",
       "block.cromamod.red_inverted_bricks": "Red Inverted Bricks",
+      "block.chromatic.green_cut_inverted_stairs": "Green Cut Inverted Stairs",
       "block.cromamod.brown_small_chroma_bricks": "Brown Small Chroma Bricks",
       "block.chromatic.orange_chroma_brick_stairs": "Orange Chroma Brick Stairs",
+      "block.chromatic.brown_inverted_stairs": "Brown Inverted Stairs",
       "block.cromamod.brown_small_inverted_bricks": "Brown Small Inverted Bricks",
       "block.cromamod.cut_chroma_stairs": "Cut Chroma Stairs",
       "block.chromatic.green_cut_inverted_tile": "Green Cut Inverted Tile",
+      "block.chromatic.orange_inverted_stairs": "Orange Inverted Stairs",
       "block.chromatic.magente_cut_inverted_tile": "Magenta Cut Inverted Tile",
       "block.chromatic.purple_small_inverted_bricks": "Purple Small Inverted Bricks",
       "block.cromamod.orange_cut_inverted_tile": "Orange Cut Inverted Tile",
       "block.cromamod.cyan_small_inverted_bricks": "Cyan Small Inverted Bricks",
+      "block.chromatic.purple_small_inverted_brick_stairs": "Purple Small Inverted Brick Stairs",
+      "block.chromatic.blue_cut_inverted_stairs": "Blue Cut Inverted Stairs",
       "block.chromatic.gray_inverted_brick_slab": "Gray Inverted Brick Slab",
       "block.cromamod.purple_chroma_tile": "Purple Chroma Tile",
       "block.cromamod.yellow_inverted_slab": "Yellow Inverted Slab",
@@ -4683,6 +5580,7 @@
       "block.cromamod.red_cut_chroma_stairs": "Red Cut Chroma Stairs",
       "block.chromatic.brown_inverted_brick_slab": "Brown Inverted Brick Slab",
       "block.chromatic.yellow_small_inverted_bricks": "Yellow Small Inverted Bricks",
+      "block.chromatic.cut_inverted_stairs": "Cut Inverted Stairs",
       "block.cromamod.orange_inverted_tile": "Orange Inverted Tile",
       "block.cromamod.green_chroma_slab": "Green Chroma Slab",
       "block.chromatic.chroma_brick_slab": "Chroma Brick Slab",
@@ -4696,13 +5594,16 @@
       "block.cromamod.brown_cut_chroma_stairs": "Brown Cut Chroma Stairs",
       "block.chromatic.yellow_chroma_tile": "Yellow Chroma Tile",
       "block.chromatic.brown_chroma_slab": "Brown Chroma Slab",
+      "block.chromatic.purple_small_chroma_brick_stairs": "Purple Small Chrome Brick Stairs",
       "block.chromatic.magenta_cut_chroma_tile": "Magenta Cut Chroma Tile",
       "block.cromamod.green_small_inverted_bricks": "Green Small Inverted Bricks",
       "block.chromatic.magenta_chroma_tile": "Magenta Chroma Tile",
       "block.chromatic.purple_small_inverted_brick_slab": "Purple Small Inverted Brick Slab",
       "block.cromamod.blue_inverted_slab": "Blue Inverted Slab",
       "block.chromatic.blue_inverted_slab": "Blue Inverted Slab",
+      "block.chromatic.purple_cut_inverted_stairs": "Purple Cut Inverted Stairs",
       "block.cromamod.brown_chroma_brick_slab": "Brown Chroma Brick Slab",
+      "block.chromatic.orange_small_inverted_brick_stairs": "Orange Small Inverted Brick Stairs",
       "block.cromamod.cut_inverted_slab": "Cut Inverted Slab",
       "block.chromatic.red_chroma_bricks": "Red Chroma Bricks",
       "block.chromatic.orange_cut_chroma_stairs": "Orange Cut Chroma Stairs",
@@ -4720,11 +5621,13 @@
       "block.cromamod.brown_cut_chroma_tile": "Brown Cut Chroma Tile",
       "block.cromamod.gray_small_inverted_bricks": "Gray Small Inverted Bricks",
       "block.cromamod.green_chroma_brick_stairs": "Green Chroma Brick Stairs",
+      "block.chromatic.small_inverted_brick_stairs": "Small Inverted Brick Stairs",
       "block.cromamod.gray_inverted_tile": "Gray Inverted Tile",
       "block.chromatic.brown_cut_chroma_stairs": "Brown Cut Chroma Stairs",
       "block.chromatic.blue_inverted_stairs": "Blue Inverted Stairs",
       "block.chromatic.blue_chroma_bricks": "Blue Chroma Bricks",
       "block.cromamod.pink_small_chroma_bricks": "Pink Small Chroma Bricks",
+      "block.chromatic.magenta_cut_inverted_stairs": "Magenta Cut Inverted Stairs",
       "block.chromatic.orange_cut_inverted_slab": "Orange Cut Inverted Slab",
       "block.chromatic.chroma_bricks": "Chroma Bricks",
       "block.chromatic.purple_cut_chroma_slab": "Purple Cut Chroma Slab",
@@ -4734,6 +5637,7 @@
       "block.cromamod.brown_chroma_brick_stairs": "Brown Chroma Brick Stairs",
       "block.cromamod.cyan_small_chroma_brick_slab": "Cyan Small Chroma Brick Slab",
       "block.chromatic.gray_cut_chroma_stairs": "Gray Cut Chroma Stairs",
+      "block.chromatic.yellow_inverted_stairs": "Yellow Inverted Stairs",
       "block.cromamod.magenta_inverted_slab": "Magenta Inverted Slab",
       "block.cromamod.red_small_chroma_bricks": "Red Small Chroma Bricks",
       "block.cromamod.purple_cut_inverted_slab": "Purple Cut Inverted Slab",
@@ -4747,6 +5651,7 @@
       "block.chromatic.pink_chroma_brick_stairs": "Pink Chroma Brick Stairs",
       "block.cromamod.small_inverted_bricks": "Small Inverted Bricks",
       "block.cromamod.inverted_brick_slab": "Inverted Brick Slab",
+      "block.chromatic.pink_inverted_stairs": "Pink Inverted Stairs",
       "block.cromamod.green_inverted_slab": "Green Inverted Slab",
       "block.cromamod.purple_small_chroma_brick_slab": "Purple Small Chrome Brick Slab",
       "block.chromatic.brown_chroma_bricks": "Brown Chroma Bricks",
@@ -4763,12 +5668,15 @@
       "block.chromatic.purple_inverted_brick_stairs": "Purple Inverted Brick Stairs",
       "block.chromatic.purple_chroma_stairs": "Purple Chroma Stairs",
       "block.cromamod.magenta_chroma_brick_stairs": "Magenta Chroma Brick Stairs",
+      "block.chromatic.red_small_inverted_brick_stairs": "Red Small Inverted Brick Stairs",
       "block.cromamod.magenta_cut_chroma_tile": "Magenta Cut Chroma Tile",
       "block.cromamod.brown_inverted_brick_slab": "Brown Inverted Brick Slab",
       "block.cromamod.yellow_small_chroma_bricks": "Yellow Small Chroma Bricks",
       "block.chromatic.green_chroma_slab": "Green Chroma Slab",
       "block.cromamod.inverted_tile": "Inverted Tile",
       "block.chromatic.orange_chroma_brick_slab": "Orange Chroma Brick Slab",
+      "block.chromatic.red_small_chroma_brick_stairs": "Red Small Chrome Brick Stairs",
+      "block.chromatic.orange_small_chroma_brick_stairs": "Orange Small Chrome Brick Stairs",
       "block.cromamod.gray_small_chroma_brick_slab": "Gray Small Chrome Brick Slab",
       "block.chromatic.green_small_chroma_bricks": "Green Small Chroma Bricks",
       "block.cromamod.pink_inverted_tile": "Pink Inverted Tile",
@@ -4790,10 +5698,13 @@
       "block.cromamod.blue_chroma_tile": "Blue Chroma Tile",
       "block.cromamod.green_small_chroma_bricks": "Green Small Chroma Bricks",
       "block.chromatic.blue_cut_inverted_slab": "Blue Cut Inverted Slab",
+      "block.chromatic.brown_small_inverted_brick_stairs": "Brown Small Inverted Brick Stairs",
       "block.chromatic.green_inverted_tile": "Green Inverted Tile",
       "block.cromamod.purple_chroma_bricks": "Purple Chroma Bricks",
+      "block.chromatic.orange_cut_inverted_stairs": "Orange Cut Inverted Stairs",
       "block.cromamod.blue_small_inverted_bricks": "Blue Small Inverted Bricks",
       "block.cromamod.pink_cut_inverted_tile": "Pink Cut Inverted Tile",
+      "block.chromatic.yellow_small_inverted_brick_stairs": "Yellow Small Inverted Brick Stairs",
       "block.chromatic.brown_small_chroma_bricks": "Brown Small Chroma Bricks",
       "block.chromatic.red_small_chroma_bricks": "Red Small Chroma Bricks",
       "block.cromamod.yellow_small_inverted_bricks": "Yellow Small Inverted Bricks",
@@ -4804,6 +5715,7 @@
       "block.chromatic.blue_inverted_brick_slab": "Blue Inverted Brick Slab",
       "block.chromatic.orange_chroma_bricks": "Orange Chroma Bricks",
       "block.chromatic.orange_small_inverted_brick_slab": "Orange Small Inverted Brick Slab",
+      "block.chromatic.pink_small_chroma_brick_stairs": "Pink Small Chrome Brick Stairs",
       "block.chromatic.cyan_inverted_tile": "Cyan Inverted Tile",
       "block.chromatic.blue_cut_chroma_tile": "Blue Cut Chroma Tile",
       "block.chromatic.inverted_brick_stairs": "Inverted Brick Stairs",
@@ -4813,6 +5725,7 @@
       "block.cromamod.purple_inverted_bricks": "Purple Inverted Bricks",
       "block.cromamod.brown_chroma_tile": "Brown Chroma Tile",
       "block.chromatic.gray_chroma_brick_slab": "Gray Chroma Brick Slab",
+      "block.chromatic.red_inverted_stairs": "Red Inverted Stairs",
       "block.chromatic.inverted_tile": "Inverted Tile",
       "block.cromamod.green_inverted_tile": "Green Inverted Tile",
       "block.cromamod.cyan_inverted_tile": "Cyan Inverted Tile",
@@ -4848,6 +5761,7 @@
       "block.cromamod.magenta_chroma_brick_slab": "Magenta Chroma Brick Slab",
       "block.cromamod.gray_cut_inverted_slab": "Gray Cut Inverted Slab",
       "block.cromamod.cyan_small_chroma_bricks": "Cyan Small Chroma Bricks",
+      "block.chromatic.pink_small_inverted_brick_stairs": "Pink Small Inverted Brick Stairs",
       "block.chromatic.small_chroma_bricks": "Small Chroma Bricks",
       "block.cromamod.red_inverted_brick_slab": "Red Inverted Brick Slab",
       "block.chromatic.brown_cut_chroma_tile": "Brown Cut Chroma Tile",
@@ -4858,6 +5772,7 @@
       "block.cromamod.chroma_tile": "Chroma Tile",
       "block.cromamod.purple_inverted_brick_slab": "Purple Inverted Brick Slab",
       "block.chromatic.gray_chroma_stairs": "Gray Chroma Stairs",
+      "block.chromatic.gray_cut_inverted_stairs": "Gray Cut Inverted Stairs",
       "block.cromamod.cyan_cut_inverted_slab": "Cyan Cut Inverted Slab",
       "block.chromatic.orange_inverted_tile": "Orange Inverted Tile",
       "block.chromatic.pink_cut_inverted_tile": "Pink Cut Inverted Tile",
@@ -4870,6 +5785,7 @@
       "block.cromamod.gray_chroma_tile": "Gray Chroma Tile",
       "block.chromatic.cut_chroma_tile": "Cut Chroma Tile",
       "block.chromatic.magenta_chroma_slab": "Magenta Chroma Slab",
+      "block.chromatic.cyan_small_inverted_brick_stairs": "Cyan Small Inverted Brick Stairs",
       "block.cromamod.magenta_cut_inverted_slab": "Magenta Cut Inverted Slab",
       "block.chromatic.yellow_inverted_bricks": "Yellow Inverted Bricks",
       "block.chromatic.cut_chroma_stairs": "Cut Chroma Stairs",
@@ -4882,18 +5798,22 @@
       "block.chromatic.purple_cut_inverted_tile": "Purple Cut Inverted Tile",
       "block.cromamod.red_inverted_slab": "Red Inverted Slab",
       "block.chromatic.green_cut_chroma_tile": "Green Cut Chroma Tile",
+      "block.chromatic.cyan_small_chroma_brick_stairs": "Cyan Small Chroma Brick Stairs",
       "block.cromamod.yellow_inverted_bricks": "Yellow Inverted Bricks",
       "block.chromatic.pink_chroma_stairs": "Pink Chroma Stairs",
       "block.chromatic.magenta_small_chroma_brick_slab": "Magenta Small Chrome Brick Slab",
       "block.chromatic.magenta_inverted_brick_stairs": "Magenta Inverted Brick Stairs",
       "block.chromatic.magenta_inverted_tile": "Magenta Inverted Tile",
       "block.cromamod.gray_chroma_brick_stairs": "Gray Chroma Brick Stairs",
+      "block.chromatic.gray_small_inverted_brick_stairs": "Gray Small Inverted Brick Stairs",
       "block.cromamod.pink_chroma_brick_stairs": "Pink Chroma Brick Stairs",
       "block.chromatic.cyan_chroma_brick_stairs": "Cyan Chroma Brick Stairs",
       "block.chromatic.green_chroma_brick_slab": "Green Chroma Brick Slab",
       "block.chromatic.cyan_inverted_brick_stairs": "Cyan Inverted Brick Stairs",
       "block.chromatic.yellow_chroma_brick_stairs": "Yellow Chroma Brick Stairs",
       "block.cromamod.cyan_small_inverted_brick_slab": "Cyan Small Inverted Brick Slab",
+      "block.chromatic.magenta_inverted_stairs": "Magenta Inverted Stairs",
+      "block.chromatic.green_small_inverted_brick_stairs": "Green Small Inverted Brick Stairs",
       "block.cromamod.magente_cut_inverted_tile": "Magenta Cut Inverted Tile",
       "block.chromatic.yellow_chroma_stairs": "Yellow Chroma Stairs",
       "block.cromamod.blue_small_chroma_bricks": "Blue Small Chroma Bricks",
