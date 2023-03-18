@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "chromatic:blocks/blue_inverted_brick",
+    "top": "chromatic:blocks/blue_inverted_brick",
+    "side": "chromatic:blocks/blue_inverted_brick"
+  },
+  "render_type": "solid"
+}

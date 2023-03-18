@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chromatic:block/inverted_bricks"
+    }
+  }
+}

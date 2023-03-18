@@ -36,14 +36,14 @@
     ],
     "name": "Magenta Chroma Slab",
     "specialInfo": [],
-    "hardness": 1.3,
+    "hardness": 13.0,
     "resistance": 1600.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ChromaticDecorTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },

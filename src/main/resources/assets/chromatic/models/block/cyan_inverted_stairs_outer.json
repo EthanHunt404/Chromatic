@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "chromatic:blocks/cyan_inverted_tile_bottomup",
+    "top": "chromatic:blocks/cyan_inverted_tile_bottomup",
+    "side": "chromatic:blocks/cyan_inverted_tile_side"
+  },
+  "render_type": "solid"
+}

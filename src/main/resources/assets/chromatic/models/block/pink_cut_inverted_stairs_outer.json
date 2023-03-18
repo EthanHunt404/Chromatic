@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "chromatic:blocks/pink_cut_inverted_tile",
+    "top": "chromatic:blocks/pink_cut_inverted_tile",
+    "side": "chromatic:blocks/pink_cut_inverted_tile"
+  },
+  "render_type": "solid"
+}

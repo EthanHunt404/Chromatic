@@ -1,9 +1,0 @@
-{
-  "parent": "block/slab_top",
-  "textures": {
-    "bottom": "cromamod:blocks/orange_small_chroma_brick",
-    "top": "cromamod:blocks/orange_small_chroma_brick",
-    "side": "cromamod:blocks/orange_small_chroma_brick"
-  },
-  "render_type": "solid"
-}

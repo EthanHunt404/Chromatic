@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "chromatic:blocks/brown_cut_inverted_tile",
+    "top": "chromatic:blocks/brown_cut_inverted_tile",
+    "side": "chromatic:blocks/brown_cut_inverted_tile"
+  },
+  "render_type": "solid"
+}

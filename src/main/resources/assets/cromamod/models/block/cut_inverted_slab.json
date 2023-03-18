@@ -1,9 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "cromamod:blocks/cut_inverted_tile",
-    "top": "cromamod:blocks/cut_inverted_tile",
-    "side": "cromamod:blocks/cut_inverted_tile"
-  },
-  "render_type": "solid"
-}

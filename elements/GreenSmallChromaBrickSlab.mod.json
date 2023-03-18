@@ -36,14 +36,14 @@
     ],
     "name": "Green Small Chrome Brick Slab",
     "specialInfo": [],
-    "hardness": 0.7,
+    "hardness": 7.0,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ChromaticDecorTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },

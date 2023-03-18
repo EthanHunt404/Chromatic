@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chromatic:blocks/blue_inverted_brick",
+    "up": "chromatic:blocks/blue_inverted_brick",
+    "north": "chromatic:blocks/blue_inverted_brick",
+    "east": "chromatic:blocks/blue_inverted_brick",
+    "south": "chromatic:blocks/blue_inverted_brick",
+    "west": "chromatic:blocks/blue_inverted_brick",
+    "particle": "chromatic:blocks/blue_inverted_brick"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "chromatic:blocks/orange_small_chroma_brick",
+    "top": "chromatic:blocks/orange_small_chroma_brick",
+    "side": "chromatic:blocks/orange_small_chroma_brick"
+  },
+  "render_type": "solid"
+}

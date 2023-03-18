@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chromatic:blocks/green_inverted_tile_bottomup",
+    "up": "chromatic:blocks/green_inverted_tile_bottomup",
+    "north": "chromatic:blocks/green_inverted_tile_side",
+    "east": "chromatic:blocks/green_inverted_tile_side",
+    "south": "chromatic:blocks/green_inverted_tile_side",
+    "west": "chromatic:blocks/green_inverted_tile_side",
+    "particle": "chromatic:blocks/green_inverted_tile_bottomup"
+  },
+  "render_type": "solid"
+}

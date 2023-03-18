@@ -4,7 +4,7 @@
   "definition": {
     "name": "Chromatic Decor",
     "icon": {
-      "value": "CUSTOM:CutChromaSlab"
+      "value": "CUSTOM:ChromaStairs"
     },
     "showSearch": true
   }

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "chromatic:blocks/yellow_inverted_brick",
+    "up": "chromatic:blocks/yellow_inverted_brick",
+    "north": "chromatic:blocks/yellow_inverted_brick",
+    "east": "chromatic:blocks/yellow_inverted_brick",
+    "south": "chromatic:blocks/yellow_inverted_brick",
+    "west": "chromatic:blocks/yellow_inverted_brick",
+    "particle": "chromatic:blocks/yellow_inverted_brick"
+  },
+  "render_type": "solid"
+}

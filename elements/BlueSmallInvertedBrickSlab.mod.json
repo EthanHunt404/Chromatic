@@ -36,14 +36,14 @@
     ],
     "name": "Blue Small Inverted Brick Slab",
     "specialInfo": [],
-    "hardness": 0.8999999999999999,
+    "hardness": 9.0,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:ChromaticBuildingBlocksTab"
+      "value": "CUSTOM:ChromaticDecorTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },

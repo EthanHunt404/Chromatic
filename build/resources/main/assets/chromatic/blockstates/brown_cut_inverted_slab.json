@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "chromatic:block/brown_cut_inverted_slab"
+    },
+    "type=top": {
+      "model": "chromatic:block/brown_cut_inverted_slab_top"
+    },
+    "type=double": {
+      "model": "chromatic:block/brown_cut_inverted_slab_full"
+    }
+  }
+}

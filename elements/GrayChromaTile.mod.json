@@ -35,14 +35,14 @@
     ],
     "name": "Gray Chroma Tile",
     "specialInfo": [],
-    "hardness": 1.5,
+    "hardness": 15.0,
     "resistance": 1600.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ChromaticBuildingBlocksTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },

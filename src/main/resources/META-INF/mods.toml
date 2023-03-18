@@ -3,7 +3,7 @@ loaderVersion="[43,)"
 license="Academic Free License v3.0"
 
 [[mods]]
-modId="cromamod"
+modId="chromatic"
 version="1.0.0"
 displayName="Cromatic"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
@@ -13,7 +13,7 @@ description='''
 When the colors clash, who shall will rise above?
 '''
 
-[[dependencies.cromamod]]
+[[dependencies.chromatic]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.19.2]"

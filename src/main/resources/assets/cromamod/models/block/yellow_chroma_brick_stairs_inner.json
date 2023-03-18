@@ -1,9 +1,0 @@
-{
-  "parent": "block/inner_stairs",
-  "textures": {
-    "bottom": "cromamod:blocks/yellow_chroma_brick",
-    "top": "cromamod:blocks/yellow_chroma_brick",
-    "side": "cromamod:blocks/yellow_chroma_brick"
-  },
-  "render_type": "solid"
-}

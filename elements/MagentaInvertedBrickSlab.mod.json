@@ -36,14 +36,14 @@
     ],
     "name": "Magenta Inverted Brick Slab",
     "specialInfo": [],
-    "hardness": 1.0,
+    "hardness": 10.0,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ChromaticDecorTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },

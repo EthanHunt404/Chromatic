@@ -35,14 +35,14 @@
     ],
     "name": "Cyan Cut Inverted Tile",
     "specialInfo": [],
-    "hardness": 2.7,
+    "hardness": 27.0,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ChromaticBuildingBlocksTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },

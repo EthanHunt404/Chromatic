@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chromatic:block/red_cut_chroma_tile"
+    }
+  }
+}

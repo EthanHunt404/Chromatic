@@ -35,14 +35,14 @@
     ],
     "name": "Purple Inverted Tile",
     "specialInfo": [],
-    "hardness": 3.0,
+    "hardness": 30.0,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ChromaticBuildingBlocksTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },

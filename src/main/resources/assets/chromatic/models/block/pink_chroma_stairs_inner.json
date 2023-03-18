@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "chromatic:blocks/pink_chroma_tile_bottomup",
+    "top": "chromatic:blocks/pink_chroma_tile_bottomup",
+    "side": "chromatic:blocks/pink_chroma_tile_side"
+  },
+  "render_type": "solid"
+}

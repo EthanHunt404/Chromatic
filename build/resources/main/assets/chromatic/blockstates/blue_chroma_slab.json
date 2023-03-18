@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "chromatic:block/blue_chroma_slab"
+    },
+    "type=top": {
+      "model": "chromatic:block/blue_chroma_slab_top"
+    },
+    "type=double": {
+      "model": "chromatic:block/blue_chroma_slab_full"
+    }
+  }
+}

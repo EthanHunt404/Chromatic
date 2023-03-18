@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "chromatic:blocks/orange_inverted_brick",
+    "top": "chromatic:blocks/orange_inverted_brick",
+    "side": "chromatic:blocks/orange_inverted_brick"
+  },
+  "render_type": "solid"
+}

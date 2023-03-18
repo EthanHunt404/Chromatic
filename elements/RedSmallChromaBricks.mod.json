@@ -35,14 +35,14 @@
     ],
     "name": "Red Small Chroma Bricks",
     "specialInfo": [],
-    "hardness": 0.9,
+    "hardness": 9.0,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ChromaticBuildingBlocksTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },

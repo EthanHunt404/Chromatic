@@ -36,14 +36,14 @@
     ],
     "name": "Pink Inverted Slab",
     "specialInfo": [],
-    "hardness": 2.8000000000000003,
+    "hardness": 28.0,
     "resistance": 6.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
       "value": "CUSTOM:ChromaticDecorTab"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "pickaxe",
     "customDrop": {
       "value": ""
     },

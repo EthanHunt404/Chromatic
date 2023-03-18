@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "chromatic:blocks/chroma_brick",
+    "top": "chromatic:blocks/chroma_brick",
+    "side": "chromatic:blocks/chroma_brick"
+  },
+  "render_type": "solid"
+}
